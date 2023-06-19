@@ -1,0 +1,2001 @@
+age,pages,first_item_prize,gender,ReBuy,News_click,country,revenue
+6252,54.0,3.0,15.5,Masc,False,3.0,Algeria,39.0
+4684,37.0,5.0,28.0,Fem,True,5.0,South Africa,183.0
+1731,43.0,7.0,28.0,Masc,True,3.0,Russia,72.0
+4742,33.0,5.0,28.0,Fem,True,4.0,South Africa,90.0
+4521,40.0,5.0,57.0,Masc,False,2.0,Burma,85.0
+6340,39.0,2.0,10.0,Masc,True,4.0,Algeria,61.0
+576,46.0,4.0,44.0,Masc,False,10.0,United States,101.0
+5202,44.0,4.0,44.0,Fem,True,7.0,Spain,279.0
+6363,30.0,1.0,44.0,Masc,False,4.0,Algeria,122.0
+439,41.0,7.0,22.0,Fem,False,10.0,United States,239.0
+2750,36.0,6.0,22.0,Masc,False,2.0,Ethiopia,116.0
+7487,34.0,5.0,42.0,Fem,False,3.0,Morocco,29.0
+5272,36.0,6.0,44.0,Fem,True,4.0,Spain,284.0
+5653,25.0,4.0,15.5,Masc,False,9.0,Tanzania,82.0
+3999,38.0,5.0,44.0,Fem,False,6.0,France,183.0
+6033,34.0,9.0,44.0,Masc,False,10.0,Argentina,209.0
+582,28.0,4.0,10.0,Fem,False,6.0,United States,264.0
+9930,34.0,8.0,57.0,Masc,True,3.0,Taiwan,170.0
+7051,52.0,11.0,15.5,Masc,False,4.0,Canada,171.0
+8158,37.0,4.0,22.0,Fem,False,2.0,Malaysia,62.0
+9896,41.0,9.0,28.0,Masc,False,4.0,Taiwan,318.0
+2249,48.0,11.0,22.0,Fem,False,2.0,Philippines,27.0
+4640,37.0,11.0,28.0,Fem,False,0.0,South Africa,91.0
+9485,45.0,6.0,44.0,Masc,False,5.0,Mozambique,97.0
+4947,41.0,5.0,15.5,Masc,False,7.0,South Korea,119.0
+9920,43.0,8.0,15.5,Fem,True,3.0,Taiwan,77.0
+1963,32.0,6.0,22.0,Fem,False,1.0,Japan,65.0
+8243,33.0,4.0,15.5,Masc,True,3.0,Saudi Arabia,84.0
+6590,41.0,4.0,44.0,Fem,True,3.0,Poland,70.0
+8847,32.0,3.0,42.0,Fem,False,6.0,Afghanistan,207.0
+321,33.0,6.0,57.0,Fem,False,0.0,India,10.0
+2678,44.0,6.0,44.0,Masc,False,7.0,Ethiopia,252.0
+4625,43.0,7.0,15.5,Fem,False,3.0,South Africa,43.0
+4949,29.0,7.0,15.5,Masc,False,5.0,South Korea,115.0
+8328,36.0,5.0,28.0,Masc,False,5.0,Saudi Arabia,97.0
+3337,45.0,2.0,10.0,Fem,True,5.0,Iran,98.0
+5589,38.0,5.0,28.0,Masc,False,3.0,Ukraine,40.0
+251,53.0,4.0,22.0,Masc,True,2.0,India,22.0
+3973,50.0,3.0,28.0,Fem,True,3.0,France,174.0
+6630,31.0,5.0,28.0,Fem,False,2.0,Sudan,31.0
+5547,37.0,8.0,44.0,Masc,False,6.0,Ukraine,121.0
+35,51.0,6.0,42.0,Fem,False,6.0,China,121.0
+8362,28.0,5.0,15.5,Fem,False,5.0,Saudi Arabia,161.0
+1513,51.0,3.0,44.0,Masc,False,1.0,Bangladesh,28.0
+9317,35.0,6.0,28.0,Fem,True,5.0,Ghana,160.0
+39,33.0,7.0,28.0,Fem,False,1.0,China,41.0
+4819,34.0,11.0,15.5,Fem,False,4.0,South Korea,187.0
+3465,30.0,7.0,10.0,Fem,True,5.0,Turkey,213.0
+1760,38.0,7.0,15.5,Fem,False,3.0,Russia,62.0
+2304,47.0,6.0,44.0,Masc,True,0.0,Philippines,51.0
+3723,33.0,4.0,44.0,Fem,True,1.0,Thailand,61.0
+8284,33.0,2.0,10.0,Fem,False,1.0,Saudi Arabia,58.0
+4993,41.0,4.0,15.5,Masc,False,1.0,South Korea,88.0
+8127,26.0,7.0,28.0,Fem,False,5.0,Malaysia,157.0
+3032,38.0,8.0,28.0,Fem,False,3.0,Germany,157.0
+7938,37.0,5.0,42.0,Fem,True,5.0,Uzbekistan,121.0
+3039,41.0,6.0,44.0,Fem,False,4.0,Germany,130.0
+9655,39.0,6.0,44.0,Fem,False,5.0,Australia,157.0
+2545,42.0,7.0,44.0,Fem,False,2.0,Vietnam,46.0
+2592,50.0,9.0,28.0,Masc,False,5.0,Vietnam,59.0
+1188,30.0,5.0,42.0,Fem,True,6.0,Pakistan,64.0
+7966,38.0,1.0,42.0,Fem,True,7.0,Uzbekistan,115.0
+6077,46.0,7.0,22.0,Masc,True,1.0,Argentina,52.0
+107,51.0,7.0,10.0,Fem,True,4.0,China,67.0
+1315,36.0,3.0,22.0,Fem,True,4.0,Nigeria,53.0
+8187,38.0,5.0,28.0,Fem,False,6.0,Malaysia,108.0
+2753,30.0,5.0,22.0,Fem,False,2.0,Ethiopia,9.0
+9753,37.0,7.0,42.0,Fem,False,9.0,Australia,167.0
+6231,36.0,6.0,44.0,Fem,False,3.0,Algeria,54.0
+2876,41.0,5.0,15.5,Masc,False,2.0,Egypt,39.0
+5323,41.0,6.0,57.0,Masc,False,6.0,Spain,233.0
+799,29.0,7.0,44.0,Fem,False,6.0,Indonesia,143.0
+3570,35.0,8.0,44.0,Masc,False,7.0,Turkey,117.0
+2894,31.0,8.0,44.0,Fem,True,4.0,Egypt,132.0
+2927,43.0,3.0,22.0,Masc,False,3.0,Egypt,41.0
+8178,46.0,5.0,15.5,Fem,False,7.0,Malaysia,62.0
+971,31.0,6.0,28.0,Masc,False,6.0,Brazil,330.0
+6687,42.0,6.0,15.5,Fem,False,4.0,Sudan,57.0
+8575,36.0,6.0,15.5,Fem,False,5.0,Venezuela,83.0
+2020,42.0,8.0,28.0,Fem,False,2.0,Mexico,130.0
+9054,49.0,8.0,57.0,Fem,False,10.0,Yemen,62.0
+952,23.0,4.0,57.0,Masc,False,3.0,Brazil,77.0
+5359,39.0,3.0,44.0,Fem,False,1.0,Spain,90.0
+3857,29.0,6.0,10.0,Fem,False,4.0,France,179.0
+5861,24.0,5.0,28.0,Fem,False,5.0,Kenya,102.0
+3145,37.0,5.0,22.0,Fem,False,7.0,Germany,109.0
+3305,36.0,6.0,28.0,Masc,True,4.0,Iran,183.0
+3006,26.0,9.0,28.0,Fem,True,5.0,Germany,161.0
+9001,31.0,2.0,10.0,Fem,False,4.0,Yemen,48.0
+7770,52.0,7.0,22.0,Fem,False,10.0,Peru,75.0
+7438,48.0,7.0,15.5,Fem,False,6.0,Morocco,70.0
+7942,45.0,6.0,44.0,Fem,False,2.0,Uzbekistan,45.0
+9238,43.0,3.0,28.0,Fem,False,9.0,Ghana,168.0
+1056,54.0,4.0,28.0,Fem,True,3.0,Pakistan,55.0
+3154,35.0,3.0,28.0,Fem,False,6.0,Germany,97.0
+3787,45.0,9.0,28.0,Fem,False,5.0,Thailand,221.0
+9189,40.0,3.0,28.0,Fem,False,5.0,Yemen,113.0
+7825,37.0,6.0,28.0,Fem,False,8.0,Uzbekistan,135.0
+7539,47.0,8.0,28.0,Fem,False,4.0,Morocco,139.0
+7231,37.0,8.0,44.0,Masc,True,8.0,Iraq,116.0
+764,41.0,3.0,28.0,Fem,False,6.0,Indonesia,123.0
+5019,30.0,7.0,44.0,Fem,True,7.0,Colombia,100.0
+4903,46.0,1.0,15.5,Masc,True,4.0,South Korea,170.0
+8093,39.0,6.0,44.0,Fem,False,10.0,Malaysia,159.0
+6843,27.0,2.0,28.0,Fem,True,3.0,Uganda,130.0
+2165,38.0,10.0,44.0,Fem,True,2.0,Mexico,72.0
+1862,41.0,5.0,22.0,Fem,False,6.0,Japan,231.0
+7850,48.0,3.0,10.0,Fem,False,6.0,Uzbekistan,47.0
+9123,37.0,8.0,10.0,Fem,False,3.0,Yemen,12.0
+2340,35.0,5.0,44.0,Fem,False,6.0,Philippines,64.0
+5527,34.0,5.0,57.0,Fem,False,3.0,Ukraine,49.0
+6743,32.0,9.0,15.5,Fem,False,5.0,Sudan,30.0
+4003,25.0,4.0,44.0,Fem,False,6.0,United Kingdom,227.0
+1123,35.0,6.0,22.0,Fem,False,8.0,Pakistan,75.0
+8709,30.0,2.0,44.0,Masc,False,3.0,Nepal,73.0
+4049,19.0,4.0,44.0,Fem,True,2.0,United Kingdom,89.0
+7640,28.0,5.0,57.0,Masc,False,8.0,Peru,163.0
+765,24.0,9.0,44.0,Fem,False,3.0,Indonesia,59.0
+2344,37.0,6.0,28.0,Fem,True,0.0,Philippines,17.0
+4071,25.0,7.0,57.0,Fem,False,5.0,United Kingdom,239.0
+7216,46.0,7.0,44.0,Fem,False,6.0,Iraq,153.0
+4216,30.0,9.0,44.0,Masc,True,1.0,Italy,121.0
+7952,45.0,6.0,42.0,Fem,True,4.0,Uzbekistan,60.0
+5970,27.0,8.0,15.5,Masc,False,9.0,Kenya,68.0
+3350,40.0,4.0,15.5,Fem,False,5.0,Iran,138.0
+4695,32.0,3.0,28.0,Fem,True,3.0,South Africa,86.0
+3399,37.0,4.0,44.0,Fem,False,2.0,Iran,59.0
+4081,53.0,8.0,42.0,Fem,True,7.0,United Kingdom,298.0
+9149,36.0,3.0,42.0,Fem,False,5.0,Yemen,95.0
+1224,41.0,3.0,42.0,Masc,False,5.0,Nigeria,148.0
+6292,32.0,3.0,28.0,Fem,False,3.0,Algeria,23.0
+3122,31.0,9.0,22.0,Fem,False,6.0,Germany,141.0
+510,40.0,5.0,22.0,Fem,False,2.0,United States,127.0
+5794,25.0,5.0,44.0,Masc,False,2.0,Tanzania,55.0
+8181,34.0,4.0,15.5,Fem,False,2.0,Malaysia,64.0
+9417,38.0,4.0,28.0,Masc,False,0.0,Mozambique,104.0
+96,36.0,3.0,28.0,Masc,False,7.0,China,298.0
+6681,40.0,5.0,22.0,Fem,False,5.0,Sudan,66.0
+1512,38.0,9.0,44.0,Fem,True,5.0,Bangladesh,88.0
+8791,46.0,9.0,44.0,Masc,False,5.0,Nepal,204.0
+119,26.0,7.0,44.0,Fem,False,1.0,China,58.0
+7791,49.0,3.0,28.0,Fem,True,5.0,Peru,212.0
+6517,52.0,4.0,44.0,Fem,True,4.0,Poland,177.0
+33,33.0,10.0,28.0,Fem,False,5.0,China,224.0
+7887,37.0,7.0,44.0,Fem,False,4.0,Uzbekistan,77.0
+6830,39.0,7.0,44.0,Fem,False,3.0,Uganda,61.0
+5421,42.0,10.0,15.5,Fem,False,4.0,Ukraine,69.0
+1068,29.0,5.0,42.0,Fem,True,6.0,Pakistan,147.0
+1347,36.0,8.0,44.0,Masc,True,3.0,Nigeria,37.0
+4747,52.0,6.0,15.5,Fem,False,4.0,South Africa,59.0
+6005,32.0,3.0,28.0,Fem,False,3.0,Argentina,38.0
+6039,33.0,7.0,42.0,Fem,False,6.0,Argentina,220.0
+3817,48.0,6.0,44.0,Masc,False,4.0,France,133.0
+8446,32.0,8.0,10.0,Fem,False,1.0,Venezuela,54.0
+5269,35.0,4.0,22.0,Fem,True,3.0,Spain,94.0
+6897,52.0,8.0,44.0,Fem,False,3.0,Uganda,82.0
+5309,32.0,4.0,22.0,Fem,True,3.0,Spain,36.0
+31,45.0,8.0,10.0,Fem,False,3.0,China,40.0
+5674,41.0,5.0,44.0,Masc,False,2.0,Tanzania,56.0
+4386,26.0,4.0,10.0,Fem,False,3.0,Italy,43.0
+29,35.0,6.0,44.0,Fem,False,2.0,China,57.0
+4202,26.0,6.0,44.0,Masc,True,4.0,Italy,310.0
+7507,34.0,5.0,42.0,Fem,True,7.0,Morocco,81.0
+735,37.0,4.0,44.0,Fem,False,4.0,Indonesia,119.0
+2067,39.0,7.0,57.0,Fem,False,3.0,Mexico,94.0
+106,41.0,5.0,10.0,Masc,True,4.0,China,117.0
+9644,31.0,6.0,57.0,Masc,False,3.0,Australia,104.0
+8894,36.0,2.0,57.0,Masc,False,3.0,Afghanistan,124.0
+8020,18.0,5.0,44.0,Fem,False,5.0,Malaysia,192.0
+2232,37.0,7.0,22.0,Masc,False,5.0,Philippines,90.0
+993,39.0,5.0,28.0,Fem,False,5.0,Brazil,122.0
+9412,29.0,7.0,22.0,Masc,False,1.0,Mozambique,140.0
+7058,36.0,6.0,42.0,Masc,False,1.0,Canada,95.0
+6789,41.0,4.0,15.5,Fem,False,7.0,Sudan,50.0
+360,38.0,4.0,10.0,Fem,True,6.0,India,48.0
+304,37.0,9.0,42.0,Masc,False,5.0,India,110.0
+2627,44.0,7.0,10.0,Fem,False,4.0,Ethiopia,172.0
+8965,29.0,7.0,44.0,Fem,False,3.0,Afghanistan,168.0
+4513,27.0,8.0,15.5,Masc,False,5.0,Burma,73.0
+5910,44.0,6.0,15.5,Masc,False,7.0,Kenya,40.0
+8313,44.0,5.0,15.5,Masc,True,5.0,Saudi Arabia,209.0
+3100,19.0,2.0,44.0,Fem,True,1.0,Germany,97.0
+5703,47.0,6.0,15.5,Masc,True,3.0,Tanzania,50.0
+3898,46.0,7.0,42.0,Fem,False,3.0,France,78.0
+5440,35.0,5.0,44.0,Fem,False,5.0,Ukraine,67.0
+7930,37.0,3.0,10.0,Masc,False,6.0,Uzbekistan,33.0
+621,29.0,5.0,28.0,Fem,False,8.0,Indonesia,99.0
+7235,39.0,9.0,44.0,Fem,False,4.0,Iraq,137.0
+2498,36.0,5.0,44.0,Fem,False,3.0,Vietnam,30.0
+713,46.0,8.0,42.0,Fem,True,4.0,Indonesia,109.0
+8403,31.0,3.0,44.0,Fem,False,4.0,Venezuela,146.0
+2855,20.0,5.0,57.0,Masc,True,4.0,Egypt,154.0
+4269,37.0,6.0,28.0,Masc,True,1.0,Italy,145.0
+2908,42.0,6.0,28.0,Fem,False,0.0,Egypt,33.0
+8080,39.0,4.0,44.0,Fem,False,1.0,Malaysia,57.0
+4516,36.0,6.0,10.0,Fem,False,1.0,Burma,27.0
+1261,48.0,6.0,28.0,Fem,False,5.0,Nigeria,35.0
+3160,37.0,6.0,44.0,Fem,True,6.0,Germany,312.0
+970,42.0,6.0,10.0,Fem,True,6.0,Brazil,81.0
+3912,33.0,4.0,10.0,Masc,False,3.0,France,36.0
+5198,42.0,7.0,44.0,Masc,True,4.0,Colombia,107.0
+8846,30.0,4.0,28.0,Fem,False,1.0,Afghanistan,93.0
+259,46.0,4.0,57.0,Fem,False,3.0,India,43.0
+3790,38.0,5.0,15.5,Masc,False,3.0,Thailand,43.0
+9202,36.0,4.0,57.0,Fem,False,6.0,Ghana,89.0
+487,48.0,5.0,42.0,Masc,False,1.0,United States,121.0
+7907,43.0,4.0,28.0,Fem,True,6.0,Uzbekistan,45.0
+518,32.0,4.0,15.5,Masc,False,3.0,United States,96.0
+8342,42.0,7.0,28.0,Fem,True,3.0,Saudi Arabia,98.0
+311,33.0,9.0,22.0,Masc,False,1.0,India,34.0
+3231,33.0,5.0,28.0,Fem,False,3.0,Iran,83.0
+7932,32.0,6.0,57.0,Fem,False,2.0,Uzbekistan,50.0
+7457,43.0,5.0,42.0,Fem,False,5.0,Morocco,92.0
+9783,36.0,2.0,10.0,Fem,False,6.0,Australia,214.0
+5183,36.0,1.0,42.0,Masc,False,3.0,Colombia,60.0
+8076,33.0,7.0,28.0,Fem,True,4.0,Malaysia,117.0
+6501,52.0,6.0,28.0,Fem,False,4.0,Poland,97.0
+6790,44.0,5.0,42.0,Masc,False,2.0,Sudan,30.0
+7772,28.0,5.0,22.0,Masc,True,5.0,Peru,133.0
+2737,31.0,3.0,44.0,Fem,False,9.0,Ethiopia,211.0
+7841,44.0,6.0,44.0,Fem,True,6.0,Uzbekistan,56.0
+6261,38.0,6.0,44.0,Fem,False,2.0,Algeria,34.0
+8205,44.0,6.0,44.0,Fem,False,1.0,Saudi Arabia,59.0
+1247,24.0,7.0,28.0,Masc,False,9.0,Nigeria,47.0
+9335,37.0,5.0,15.5,Masc,True,5.0,Ghana,78.0
+4194,39.0,7.0,15.5,Fem,False,2.0,United Kingdom,53.0
+8000,40.0,4.0,15.5,Fem,False,1.0,Malaysia,86.0
+7377,29.0,4.0,44.0,Fem,True,4.0,Iraq,56.0
+3434,33.0,3.0,22.0,Masc,False,0.0,Turkey,42.0
+5381,36.0,6.0,28.0,Fem,False,7.0,Spain,227.0
+958,27.0,6.0,28.0,Fem,False,2.0,Brazil,96.0
+416,33.0,4.0,44.0,Fem,False,10.0,United States,211.0
+5741,24.0,3.0,28.0,Fem,True,6.0,Tanzania,316.0
+6727,29.0,6.0,22.0,Fem,False,4.0,Sudan,73.0
+4381,42.0,7.0,42.0,Fem,False,4.0,Italy,217.0
+5196,28.0,7.0,10.0,Fem,True,1.0,Colombia,60.0
+1112,33.0,5.0,44.0,Masc,False,3.0,Pakistan,39.0
+2688,49.0,6.0,57.0,Fem,True,4.0,Ethiopia,285.0
+6472,38.0,5.0,42.0,Masc,True,4.0,Poland,131.0
+8819,35.0,4.0,15.5,Fem,False,5.0,Afghanistan,251.0
+7807,28.0,7.0,44.0,Masc,False,4.0,Uzbekistan,26.0
+3410,34.0,8.0,22.0,Fem,False,7.0,Turkey,109.0
+80,42.0,6.0,28.0,Masc,False,4.0,China,238.0
+4613,30.0,4.0,28.0,Fem,False,1.0,South Africa,97.0
+1373,32.0,5.0,28.0,Masc,False,5.0,Nigeria,97.0
+1509,30.0,6.0,44.0,Fem,False,5.0,Bangladesh,15.0
+6442,25.0,3.0,28.0,Masc,True,6.0,Poland,159.0
+3070,34.0,9.0,57.0,Fem,True,10.0,Germany,263.0
+3015,39.0,5.0,10.0,Masc,False,6.0,Germany,220.0
+4822,19.0,4.0,57.0,Fem,False,3.0,South Korea,105.0
+7821,32.0,5.0,28.0,Fem,False,3.0,Uzbekistan,74.0
+92,36.0,5.0,44.0,Fem,True,4.0,China,76.0
+9420,28.0,5.0,44.0,Masc,False,0.0,Mozambique,120.0
+6599,35.0,6.0,28.0,Fem,False,5.0,Poland,178.0
+4442,35.0,3.0,15.5,Masc,True,4.0,Burma,95.0
+7601,30.0,8.0,22.0,Fem,False,2.0,Peru,36.0
+3834,33.0,3.0,22.0,Fem,False,4.0,France,110.0
+9701,22.0,6.0,42.0,Fem,False,4.0,Australia,230.0
+4321,51.0,2.0,42.0,Fem,False,2.0,Italy,118.0
+3393,28.0,5.0,22.0,Fem,False,5.0,Iran,117.0
+4751,39.0,7.0,28.0,Fem,False,5.0,South Africa,146.0
+7228,41.0,2.0,44.0,Fem,False,1.0,Iraq,65.0
+9190,21.0,7.0,10.0,Fem,False,5.0,Yemen,71.0
+2360,42.0,4.0,22.0,Fem,False,4.0,Philippines,51.0
+1147,61.0,5.0,57.0,Fem,False,4.0,Pakistan,170.0
+5665,37.0,7.0,22.0,Fem,False,1.0,Tanzania,28.0
+8074,34.0,6.0,28.0,Masc,False,1.0,Malaysia,78.0
+4942,46.0,4.0,57.0,Fem,False,3.0,South Korea,138.0
+3662,39.0,7.0,44.0,Fem,False,3.0,Thailand,53.0
+1562,29.0,6.0,28.0,Fem,True,2.0,Bangladesh,41.0
+4112,30.0,2.0,57.0,Fem,False,7.0,United Kingdom,97.0
+9049,29.0,5.0,22.0,Fem,False,6.0,Yemen,51.0
+9275,45.0,7.0,15.5,Masc,False,6.0,Ghana,59.0
+8537,25.0,6.0,44.0,Fem,False,5.0,Venezuela,193.0
+794,25.0,5.0,15.5,Fem,True,7.0,Indonesia,38.0
+5853,34.0,6.0,28.0,Fem,True,2.0,Kenya,133.0
+7618,36.0,10.0,10.0,Masc,False,1.0,Peru,24.0
+1593,46.0,3.0,15.5,Fem,False,1.0,Bangladesh,34.0
+7417,30.0,5.0,42.0,Fem,False,5.0,Morocco,90.0
+5266,33.0,4.0,28.0,Fem,False,2.0,Spain,61.0
+7146,29.0,6.0,28.0,Fem,False,3.0,Canada,185.0
+88,35.0,7.0,22.0,Fem,True,5.0,China,96.0
+8694,49.0,5.0,22.0,Fem,False,3.0,Nepal,55.0
+9731,31.0,5.0,57.0,Fem,False,5.0,Australia,262.0
+9445,40.0,6.0,15.5,Fem,False,5.0,Mozambique,197.0
+6753,48.0,6.0,15.5,Fem,False,4.0,Sudan,70.0
+3501,33.0,10.0,57.0,Masc,False,2.0,Turkey,71.0
+2233,44.0,6.0,28.0,Masc,False,6.0,Philippines,78.0
+2802,23.0,5.0,15.5,Masc,False,1.0,Egypt,34.0
+4423,49.0,3.0,28.0,Masc,False,8.0,Burma,208.0
+5662,43.0,5.0,28.0,Fem,False,1.0,Tanzania,36.0
+7169,52.0,5.0,22.0,Masc,True,2.0,Canada,136.0
+8336,43.0,7.0,22.0,Fem,True,4.0,Saudi Arabia,138.0
+2147,39.0,7.0,22.0,Fem,False,3.0,Mexico,72.0
+7968,34.0,10.0,28.0,Fem,True,3.0,Uzbekistan,30.0
+6550,38.0,4.0,15.5,Fem,True,3.0,Poland,44.0
+7642,26.0,11.0,22.0,Fem,True,2.0,Peru,63.0
+6163,33.0,6.0,44.0,Masc,False,4.0,Argentina,204.0
+1494,36.0,5.0,42.0,Fem,True,10.0,Bangladesh,103.0
+7695,31.0,8.0,10.0,Fem,False,4.0,Peru,143.0
+7093,30.0,9.0,10.0,Fem,False,10.0,Canada,114.0
+1408,27.0,10.0,10.0,Fem,False,5.0,Bangladesh,17.0
+6690,48.0,6.0,28.0,Fem,False,3.0,Sudan,28.0
+3400,52.0,5.0,22.0,Fem,False,2.0,Turkey,43.0
+108,48.0,8.0,44.0,Masc,False,3.0,China,39.0
+5635,25.0,6.0,15.5,Fem,False,5.0,Tanzania,35.0
+8481,43.0,6.0,28.0,Masc,False,6.0,Venezuela,158.0
+6603,44.0,5.0,44.0,Fem,True,5.0,Sudan,84.0
+1090,26.0,4.0,44.0,Masc,False,9.0,Pakistan,109.0
+5559,29.0,4.0,42.0,Masc,True,7.0,Ukraine,206.0
+9411,26.0,9.0,28.0,Masc,True,3.0,Mozambique,161.0
+8142,22.0,6.0,44.0,Fem,True,3.0,Malaysia,58.0
+8663,27.0,6.0,10.0,Fem,False,5.0,Nepal,118.0
+6595,35.0,5.0,57.0,Fem,True,7.0,Poland,163.0
+623,46.0,5.0,44.0,Fem,False,1.0,Indonesia,57.0
+6870,38.0,7.0,42.0,Fem,False,3.0,Uganda,20.0
+4813,30.0,6.0,15.5,Masc,False,5.0,South Korea,130.0
+6552,33.0,5.0,57.0,Fem,True,4.0,Poland,164.0
+7529,29.0,5.0,44.0,Masc,False,6.0,Morocco,129.0
+5795,21.0,6.0,28.0,Fem,False,5.0,Tanzania,89.0
+7436,27.0,2.0,44.0,Fem,False,6.0,Morocco,111.0
+4217,36.0,6.0,22.0,Fem,False,7.0,Italy,182.0
+5940,45.0,7.0,44.0,Masc,False,6.0,Kenya,115.0
+8500,21.0,5.0,44.0,Masc,False,2.0,Venezuela,60.0
+6428,52.0,6.0,10.0,Fem,False,6.0,Poland,82.0
+6826,46.0,4.0,42.0,Masc,False,4.0,Uganda,108.0
+4130,29.0,7.0,15.5,Fem,False,1.0,United Kingdom,58.0
+7801,44.0,6.0,15.5,Fem,True,6.0,Uzbekistan,47.0
+7753,48.0,7.0,15.5,Fem,False,3.0,Peru,40.0
+4721,48.0,5.0,42.0,Fem,False,2.0,South Africa,40.0
+1650,46.0,2.0,10.0,Fem,True,1.0,Russia,66.0
+4140,24.0,9.0,44.0,Fem,False,5.0,United Kingdom,217.0
+1617,37.0,5.0,10.0,Fem,False,9.0,Russia,126.0
+2029,40.0,8.0,22.0,Fem,True,9.0,Mexico,144.0
+8517,39.0,6.0,44.0,Fem,True,5.0,Venezuela,155.0
+4575,44.0,4.0,44.0,Fem,False,4.0,Burma,110.0
+3992,34.0,4.0,44.0,Fem,False,3.0,France,90.0
+7376,50.0,7.0,15.5,Fem,False,6.0,Iraq,87.0
+6149,37.0,1.0,10.0,Fem,False,4.0,Argentina,105.0
+4908,38.0,4.0,22.0,Fem,True,5.0,South Korea,113.0
+5026,33.0,6.0,22.0,Masc,False,3.0,Colombia,47.0
+8260,30.0,1.0,57.0,Fem,False,4.0,Saudi Arabia,216.0
+4731,38.0,6.0,22.0,Masc,True,4.0,South Africa,109.0
+7548,39.0,4.0,22.0,Masc,False,4.0,Morocco,75.0
+8134,32.0,3.0,28.0,Masc,True,10.0,Malaysia,146.0
+1606,28.0,4.0,22.0,Masc,False,5.0,Russia,99.0
+4773,51.0,4.0,15.5,Masc,False,1.0,South Africa,45.0
+8109,27.0,5.0,15.5,Fem,False,6.0,Malaysia,98.0
+6951,40.0,6.0,57.0,Masc,True,5.0,Uganda,124.0
+6004,49.0,9.0,15.5,Masc,False,6.0,Argentina,109.0
+7728,28.0,6.0,10.0,Fem,False,1.0,Peru,34.0
+3541,37.0,10.0,22.0,Masc,False,2.0,Turkey,76.0
+388,38.0,4.0,15.5,Fem,True,6.0,India,77.0
+1794,41.0,5.0,44.0,Masc,False,0.0,Russia,46.0
+8731,25.0,1.0,44.0,Masc,False,3.0,Nepal,58.0
+4919,38.0,7.0,22.0,Masc,False,4.0,South Korea,271.0
+5537,39.0,6.0,57.0,Fem,False,5.0,Ukraine,111.0
+3872,34.0,4.0,44.0,Fem,False,3.0,France,105.0
+8868,36.0,6.0,15.5,Fem,False,2.0,Afghanistan,65.0
+2254,29.0,6.0,22.0,Fem,False,1.0,Philippines,34.0
+3412,39.0,6.0,28.0,Fem,True,1.0,Turkey,53.0
+5459,41.0,6.0,22.0,Fem,False,0.0,Ukraine,46.0
+4955,30.0,7.0,15.5,Fem,False,10.0,South Korea,58.0
+7396,35.0,5.0,44.0,Fem,False,5.0,Iraq,171.0
+5414,39.0,4.0,28.0,Masc,True,9.0,Ukraine,63.0
+7399,34.0,7.0,22.0,Masc,False,10.0,Iraq,144.0
+7414,34.0,1.0,15.5,Fem,False,1.0,Morocco,31.0
+9100,18.0,11.0,28.0,Fem,True,3.0,Yemen,107.0
+4851,18.0,6.0,15.5,Fem,False,1.0,South Korea,67.0
+2025,40.0,3.0,28.0,Fem,False,5.0,Mexico,56.0
+2615,50.0,6.0,22.0,Masc,False,2.0,Ethiopia,97.0
+7388,44.0,2.0,22.0,Masc,False,1.0,Iraq,39.0
+2926,22.0,9.0,28.0,Fem,False,4.0,Egypt,105.0
+1121,45.0,3.0,42.0,Fem,True,5.0,Pakistan,95.0
+2910,28.0,9.0,28.0,Masc,False,3.0,Egypt,73.0
+8146,39.0,6.0,42.0,Fem,True,5.0,Malaysia,246.0
+7383,51.0,6.0,44.0,Fem,True,4.0,Iraq,162.0
+3482,33.0,6.0,22.0,Masc,True,10.0,Turkey,137.0
+795,45.0,6.0,44.0,Fem,False,7.0,Indonesia,119.0
+1575,54.0,8.0,15.5,Fem,False,7.0,Bangladesh,46.0
+6176,35.0,7.0,57.0,Fem,False,1.0,Argentina,67.0
+6266,37.0,4.0,15.5,Fem,True,1.0,Algeria,32.0
+2458,38.0,5.0,22.0,Fem,False,3.0,Vietnam,27.0
+3312,37.0,5.0,44.0,Fem,True,4.0,Iran,169.0
+1253,43.0,5.0,28.0,Masc,False,5.0,Nigeria,193.0
+6834,19.0,7.0,42.0,Fem,False,3.0,Uganda,91.0
+8794,23.0,7.0,42.0,Fem,False,6.0,Nepal,97.0
+3837,40.0,3.0,15.5,Fem,False,6.0,France,155.0
+4398,43.0,6.0,42.0,Masc,False,7.0,Italy,158.0
+3595,46.0,7.0,15.5,Fem,False,3.0,Turkey,50.0
+6621,38.0,10.0,22.0,Fem,False,7.0,Sudan,50.0
+8382,38.0,7.0,22.0,Masc,True,3.0,Saudi Arabia,97.0
+2124,32.0,10.0,28.0,Fem,False,5.0,Mexico,57.0
+3238,29.0,7.0,44.0,Fem,False,5.0,Iran,73.0
+5403,46.0,4.0,57.0,Fem,False,6.0,Ukraine,145.0
+5998,40.0,8.0,22.0,Fem,False,5.0,Kenya,81.0
+5938,29.0,5.0,22.0,Fem,True,5.0,Kenya,70.0
+2045,38.0,10.0,44.0,Fem,True,2.0,Mexico,88.0
+1578,45.0,5.0,57.0,Fem,False,4.0,Bangladesh,126.0
+14,35.0,5.0,28.0,Fem,False,1.0,China,40.0
+2673,30.0,5.0,22.0,Masc,False,2.0,Ethiopia,99.0
+7016,36.0,5.0,57.0,Fem,False,3.0,Canada,112.0
+8720,30.0,4.0,22.0,Fem,False,3.0,Nepal,48.0
+8849,34.0,5.0,28.0,Fem,True,6.0,Afghanistan,97.0
+4812,38.0,10.0,44.0,Fem,False,3.0,South Korea,103.0
+1084,37.0,3.0,22.0,Masc,False,3.0,Pakistan,29.0
+4983,36.0,1.0,44.0,Fem,True,4.0,South Korea,243.0
+7155,35.0,5.0,28.0,Masc,False,4.0,Canada,274.0
+2884,35.0,7.0,10.0,Masc,True,5.0,Egypt,62.0
+333,36.0,5.0,44.0,Masc,True,2.0,India,43.0
+7204,50.0,6.0,28.0,Fem,True,5.0,Iraq,148.0
+4367,34.0,2.0,44.0,Fem,False,8.0,Italy,224.0
+3079,41.0,6.0,44.0,Fem,False,4.0,Germany,267.0
+7203,45.0,5.0,44.0,Fem,False,5.0,Iraq,140.0
+9909,29.0,5.0,44.0,Fem,False,6.0,Taiwan,206.0
+8864,40.0,8.0,22.0,Masc,False,6.0,Afghanistan,97.0
+263,45.0,4.0,44.0,Fem,False,6.0,India,116.0
+4337,35.0,6.0,22.0,Fem,False,7.0,Italy,251.0
+8895,46.0,7.0,22.0,Fem,False,6.0,Afghanistan,305.0
+8447,40.0,8.0,10.0,Fem,True,5.0,Venezuela,103.0
+5903,42.0,7.0,28.0,Fem,True,3.0,Kenya,64.0
+1498,28.0,5.0,15.5,Fem,False,4.0,Bangladesh,51.0
+4190,41.0,5.0,15.5,Fem,False,6.0,United Kingdom,103.0
+7485,41.0,11.0,15.5,Fem,False,1.0,Morocco,26.0
+9643,28.0,5.0,22.0,Fem,False,1.0,Australia,60.0
+8310,31.0,8.0,15.5,Masc,False,1.0,Saudi Arabia,77.0
+7590,21.0,4.0,44.0,Fem,True,3.0,Morocco,63.0
+500,28.0,5.0,57.0,Masc,True,4.0,United States,289.0
+9155,37.0,6.0,28.0,Fem,False,3.0,Yemen,63.0
+9414,35.0,7.0,15.5,Masc,False,7.0,Mozambique,21.0
+3095,34.0,5.0,28.0,Masc,False,6.0,Germany,227.0
+4631,23.0,7.0,28.0,Fem,False,5.0,South Africa,137.0
+367,38.0,5.0,28.0,Fem,False,4.0,India,143.0
+4058,37.0,8.0,15.5,Masc,True,5.0,United Kingdom,308.0
+8174,37.0,3.0,57.0,Masc,True,10.0,Malaysia,187.0
+4630,47.0,4.0,57.0,Masc,False,6.0,South Africa,202.0
+6070,37.0,7.0,28.0,Fem,False,3.0,Argentina,61.0
+2664,37.0,6.0,42.0,Fem,True,3.0,Ethiopia,104.0
+1026,28.0,9.0,44.0,Fem,False,2.0,Pakistan,23.0
+5908,45.0,5.0,15.5,Fem,False,3.0,Kenya,24.0
+5050,36.0,3.0,44.0,Fem,False,3.0,Colombia,64.0
+6328,49.0,4.0,15.5,Masc,False,5.0,Algeria,55.0
+9733,28.0,3.0,42.0,Fem,True,6.0,Australia,212.0
+1691,46.0,7.0,22.0,Fem,True,3.0,Russia,52.0
+673,22.0,8.0,44.0,Fem,True,4.0,Indonesia,81.0
+5572,50.0,7.0,28.0,Masc,False,1.0,Ukraine,85.0
+5766,20.0,4.0,28.0,Fem,True,10.0,Tanzania,273.0
+5156,43.0,7.0,28.0,Fem,True,1.0,Colombia,39.0
+733,34.0,7.0,44.0,Fem,False,2.0,Indonesia,54.0
+3526,29.0,5.0,15.5,Fem,False,6.0,Turkey,102.0
+568,38.0,7.0,10.0,Fem,True,10.0,United States,89.0
+9187,47.0,6.0,28.0,Masc,False,5.0,Yemen,57.0
+2922,45.0,5.0,15.5,Masc,False,1.0,Egypt,42.0
+7911,40.0,3.0,28.0,Fem,True,5.0,Uzbekistan,154.0
+1558,36.0,9.0,15.5,Fem,False,10.0,Bangladesh,77.0
+101,38.0,8.0,28.0,Masc,True,4.0,China,97.0
+3007,36.0,4.0,42.0,Fem,False,4.0,Germany,211.0
+7201,30.0,6.0,28.0,Masc,False,3.0,Iraq,50.0
+303,22.0,4.0,15.5,Masc,False,6.0,India,83.0
+76,51.0,8.0,15.5,Masc,False,4.0,China,56.0
+6754,48.0,5.0,22.0,Fem,False,5.0,Sudan,42.0
+8629,38.0,2.0,28.0,Fem,False,3.0,Nepal,102.0
+1208,38.0,6.0,57.0,Fem,True,5.0,Nigeria,53.0
+7742,41.0,6.0,22.0,Masc,False,8.0,Peru,89.0
+8214,37.0,3.0,22.0,Masc,True,4.0,Saudi Arabia,240.0
+8944,34.0,8.0,22.0,Fem,False,6.0,Afghanistan,329.0
+8413,24.0,5.0,28.0,Masc,True,1.0,Venezuela,96.0
+1775,40.0,6.0,44.0,Fem,False,10.0,Russia,173.0
+3473,22.0,9.0,44.0,Fem,False,4.0,Turkey,74.0
+483,38.0,5.0,42.0,Fem,False,4.0,United States,235.0
+2189,40.0,8.0,28.0,Masc,True,9.0,Mexico,110.0
+346,44.0,3.0,22.0,Masc,False,7.0,India,46.0
+5481,41.0,6.0,15.5,Fem,True,3.0,Ukraine,40.0
+8361,32.0,4.0,57.0,Fem,True,4.0,Saudi Arabia,279.0
+1472,43.0,9.0,44.0,Fem,True,5.0,Bangladesh,100.0
+5100,36.0,6.0,57.0,Fem,False,4.0,Colombia,79.0
+6765,44.0,4.0,42.0,Fem,False,7.0,Sudan,116.0
+8706,37.0,9.0,44.0,Fem,False,6.0,Nepal,110.0
+4929,27.0,6.0,22.0,Fem,True,1.0,South Korea,114.0
+6329,28.0,3.0,44.0,Masc,False,5.0,Algeria,95.0
+2609,29.0,5.0,44.0,Fem,False,0.0,Ethiopia,97.0
+3,20.0,1.0,44.0,Fem,False,2.0,China,71.0
+2213,37.0,2.0,10.0,Masc,True,2.0,Philippines,26.0
+4827,35.0,5.0,15.5,Masc,False,7.0,South Korea,148.0
+856,39.0,8.0,28.0,Masc,True,7.0,Brazil,186.0
+6977,26.0,8.0,10.0,Fem,False,3.0,Uganda,40.0
+5885,41.0,6.0,28.0,Fem,False,3.0,Kenya,8.0
+624,31.0,3.0,28.0,Fem,True,10.0,Indonesia,173.0
+290,32.0,5.0,15.5,Fem,False,9.0,India,39.0
+2018,27.0,6.0,22.0,Fem,False,4.0,Mexico,143.0
+668,40.0,7.0,22.0,Masc,False,0.0,Indonesia,27.0
+8921,30.0,6.0,22.0,Fem,False,6.0,Afghanistan,97.0
+8264,32.0,2.0,42.0,Masc,False,6.0,Saudi Arabia,268.0
+9696,36.0,6.0,44.0,Fem,False,3.0,Australia,58.0
+1631,35.0,4.0,22.0,Fem,False,1.0,Russia,77.0
+5170,40.0,3.0,44.0,Fem,False,3.0,Colombia,56.0
+7205,30.0,5.0,44.0,Fem,False,3.0,Iraq,57.0
+2522,29.0,5.0,44.0,Fem,False,5.0,Vietnam,100.0
+2215,35.0,3.0,22.0,Fem,True,4.0,Philippines,110.0
+6968,29.0,4.0,28.0,Fem,True,3.0,Uganda,146.0
+6496,39.0,3.0,15.5,Masc,False,6.0,Poland,161.0
+6213,47.0,11.0,57.0,Masc,False,9.0,Algeria,132.0
+7032,39.0,5.0,15.5,Fem,False,6.0,Canada,160.0
+7420,41.0,6.0,22.0,Masc,False,10.0,Morocco,88.0
+1107,41.0,5.0,10.0,Masc,False,4.0,Pakistan,46.0
+450,37.0,7.0,22.0,Fem,False,3.0,United States,106.0
+6289,33.0,3.0,15.5,Fem,False,5.0,Algeria,62.0
+9966,37.0,4.0,10.0,Masc,False,6.0,Taiwan,166.0
+135,31.0,8.0,28.0,Fem,False,4.0,China,271.0
+1785,21.0,5.0,15.5,Masc,True,6.0,Russia,174.0
+3404,34.0,8.0,22.0,Masc,False,3.0,Turkey,49.0
+2906,43.0,5.0,57.0,Masc,True,10.0,Egypt,145.0
+8304,25.0,2.0,28.0,Masc,False,6.0,Saudi Arabia,148.0
+7492,44.0,5.0,57.0,Masc,False,2.0,Morocco,42.0
+6100,39.0,4.0,44.0,Fem,False,5.0,Argentina,83.0
+4504,41.0,6.0,28.0,Masc,False,7.0,Burma,18.0
+5053,37.0,7.0,42.0,Fem,False,3.0,Colombia,53.0
+5205,26.0,7.0,42.0,Masc,False,6.0,Spain,193.0
+4080,33.0,3.0,44.0,Fem,True,3.0,United Kingdom,91.0
+6918,34.0,6.0,28.0,Fem,False,3.0,Uganda,171.0
+6802,35.0,3.0,44.0,Fem,True,2.0,Uganda,86.0
+5206,43.0,3.0,28.0,Fem,True,4.0,Spain,221.0
+532,37.0,6.0,42.0,Fem,False,4.0,United States,294.0
+4830,48.0,6.0,42.0,Masc,False,4.0,South Korea,113.0
+4038,37.0,3.0,44.0,Fem,True,2.0,United Kingdom,70.0
+4084,40.0,8.0,28.0,Masc,False,5.0,United Kingdom,186.0
+3204,45.0,5.0,22.0,Masc,True,6.0,Iran,115.0
+7110,52.0,8.0,28.0,Masc,True,2.0,Canada,62.0
+330,45.0,5.0,42.0,Fem,False,9.0,India,103.0
+4957,22.0,7.0,10.0,Fem,False,6.0,South Korea,101.0
+3033,21.0,3.0,10.0,Fem,False,4.0,Germany,79.0
+7684,30.0,5.0,28.0,Fem,False,6.0,Peru,131.0
+1597,30.0,6.0,22.0,Fem,False,7.0,Bangladesh,73.0
+9919,41.0,5.0,28.0,Masc,False,2.0,Taiwan,112.0
+3597,26.0,6.0,28.0,Masc,False,4.0,Turkey,291.0
+9038,44.0,9.0,15.5,Fem,False,9.0,Yemen,50.0
+8001,30.0,6.0,15.5,Fem,True,2.0,Malaysia,45.0
+590,34.0,5.0,28.0,Masc,False,2.0,United States,198.0
+647,26.0,4.0,44.0,Fem,False,0.0,Indonesia,48.0
+9102,50.0,6.0,28.0,Fem,False,4.0,Yemen,167.0
+8015,36.0,9.0,44.0,Fem,False,0.0,Malaysia,40.0
+3771,38.0,6.0,22.0,Fem,False,6.0,Thailand,109.0
+9039,43.0,2.0,57.0,Fem,True,3.0,Yemen,31.0
+5082,38.0,3.0,22.0,Masc,False,6.0,Colombia,59.0
+7882,38.0,6.0,44.0,Fem,False,3.0,Uzbekistan,43.0
+9362,41.0,4.0,44.0,Fem,False,6.0,Ghana,81.0
+4210,31.0,4.0,22.0,Fem,False,1.0,Italy,51.0
+8834,30.0,9.0,57.0,Masc,True,4.0,Afghanistan,97.0
+8699,32.0,7.0,22.0,Fem,False,3.0,Nepal,56.0
+1795,35.0,8.0,22.0,Fem,False,3.0,Russia,44.0
+2586,26.0,6.0,42.0,Fem,False,3.0,Vietnam,26.0
+8355,42.0,3.0,10.0,Fem,True,5.0,Saudi Arabia,95.0
+2316,34.0,5.0,28.0,Fem,True,7.0,Philippines,200.0
+4185,36.0,3.0,28.0,Fem,False,5.0,United Kingdom,229.0
+8827,33.0,8.0,15.5,Fem,False,3.0,Afghanistan,79.0
+7072,44.0,5.0,44.0,Fem,False,6.0,Canada,245.0
+5234,47.0,6.0,15.5,Fem,True,3.0,Spain,19.0
+8743,43.0,6.0,44.0,Fem,False,5.0,Nepal,227.0
+8670,44.0,5.0,44.0,Fem,False,6.0,Nepal,210.0
+4768,39.0,7.0,28.0,Fem,True,5.0,South Africa,142.0
+9972,40.0,6.0,44.0,Masc,False,6.0,Taiwan,194.0
+7144,35.0,7.0,15.5,Fem,False,2.0,Canada,90.0
+2913,33.0,6.0,15.5,Masc,True,0.0,Egypt,44.0
+9871,30.0,7.0,42.0,Masc,False,10.0,Taiwan,225.0
+9893,42.0,3.0,28.0,Fem,False,0.0,Taiwan,88.0
+2075,30.0,5.0,44.0,Fem,False,1.0,Mexico,61.0
+4302,45.0,7.0,15.5,Fem,True,3.0,Italy,111.0
+5822,26.0,2.0,44.0,Fem,True,5.0,Kenya,120.0
+2149,42.0,8.0,22.0,Fem,True,9.0,Mexico,157.0
+144,37.0,5.0,15.5,Fem,True,4.0,China,57.0
+4963,47.0,4.0,15.5,Masc,False,4.0,South Korea,221.0
+8159,37.0,4.0,28.0,Fem,False,9.0,Malaysia,97.0
+9030,20.0,7.0,22.0,Masc,False,5.0,Yemen,49.0
+4775,52.0,3.0,42.0,Fem,True,3.0,South Africa,92.0
+8933,48.0,5.0,22.0,Masc,False,1.0,Afghanistan,101.0
+7749,42.0,5.0,44.0,Masc,False,2.0,Peru,74.0
+9828,43.0,6.0,44.0,Masc,True,5.0,Taiwan,254.0
+9214,38.0,6.0,10.0,Masc,False,3.0,Ghana,13.0
+6060,43.0,4.0,15.5,Masc,False,5.0,Argentina,176.0
+9475,37.0,6.0,28.0,Fem,True,4.0,Mozambique,252.0
+6409,27.0,6.0,22.0,Masc,False,7.0,Poland,137.0
+3317,30.0,4.0,44.0,Masc,False,3.0,Iran,82.0
+7464,36.0,4.0,22.0,Masc,False,0.0,Morocco,18.0
+3061,35.0,4.0,15.5,Fem,True,4.0,Germany,216.0
+1355,41.0,3.0,44.0,Fem,True,4.0,Nigeria,68.0
+4514,37.0,1.0,10.0,Masc,False,2.0,Burma,28.0
+5505,33.0,5.0,44.0,Fem,False,6.0,Ukraine,122.0
+5250,49.0,4.0,44.0,Masc,False,3.0,Spain,81.0
+4511,43.0,5.0,28.0,Fem,False,1.0,Burma,43.0
+1730,47.0,2.0,44.0,Fem,True,1.0,Russia,68.0
+1758,38.0,7.0,28.0,Masc,False,4.0,Russia,154.0
+6650,53.0,6.0,44.0,Fem,False,3.0,Sudan,43.0
+6646,19.0,7.0,44.0,Masc,False,0.0,Sudan,21.0
+9860,33.0,7.0,15.5,Fem,False,4.0,Taiwan,222.0
+4139,38.0,5.0,22.0,Fem,False,0.0,United Kingdom,74.0
+9393,29.0,5.0,44.0,Fem,False,3.0,Ghana,34.0
+5123,18.0,3.0,42.0,Masc,False,5.0,Colombia,121.0
+0,41.0,6.0,28.0,Fem,False,4.0,China,113.0
+1864,28.0,8.0,10.0,Fem,True,4.0,Japan,233.0
+543,26.0,6.0,42.0,Fem,False,0.0,United States,111.0
+349,29.0,3.0,28.0,Fem,False,10.0,India,193.0
+6906,35.0,4.0,44.0,Masc,False,4.0,Uganda,161.0
+9765,32.0,3.0,15.5,Fem,False,1.0,Australia,63.0
+2523,25.0,6.0,28.0,Fem,True,4.0,Vietnam,77.0
+3464,49.0,3.0,22.0,Masc,False,1.0,Turkey,72.0
+457,41.0,9.0,44.0,Masc,False,5.0,United States,285.0
+3023,39.0,8.0,42.0,Fem,False,10.0,Germany,307.0
+7261,43.0,6.0,28.0,Masc,False,1.0,Iraq,120.0
+9515,52.0,6.0,22.0,Masc,True,4.0,Mozambique,243.0
+7872,32.0,6.0,57.0,Fem,True,4.0,Uzbekistan,54.0
+6625,41.0,3.0,28.0,Fem,True,9.0,Sudan,171.0
+2534,31.0,5.0,28.0,Fem,False,2.0,Vietnam,27.0
+131,36.0,3.0,28.0,Masc,False,0.0,China,94.0
+3704,34.0,10.0,57.0,Fem,False,2.0,Thailand,22.0
+1372,36.0,3.0,44.0,Fem,False,8.0,Nigeria,80.0
+6200,52.0,5.0,44.0,Fem,False,6.0,Algeria,170.0
+4856,38.0,5.0,22.0,Fem,True,5.0,South Korea,151.0
+4712,23.0,2.0,22.0,Fem,False,7.0,South Africa,74.0
+5544,52.0,7.0,28.0,Fem,False,5.0,Ukraine,44.0
+1413,33.0,4.0,15.5,Fem,False,2.0,Bangladesh,19.0
+4113,39.0,6.0,15.5,Masc,False,2.0,United Kingdom,71.0
+655,51.0,4.0,15.5,Fem,False,4.0,Indonesia,64.0
+8137,49.0,6.0,57.0,Masc,False,3.0,Malaysia,77.0
+4098,48.0,8.0,44.0,Fem,True,5.0,United Kingdom,322.0
+592,28.0,7.0,42.0,Fem,False,2.0,United States,98.0
+8708,45.0,3.0,28.0,Fem,False,9.0,Nepal,154.0
+3123,50.0,6.0,42.0,Fem,False,9.0,Germany,183.0
+3047,47.0,4.0,44.0,Masc,False,4.0,Germany,163.0
+3887,27.0,8.0,15.5,Fem,True,4.0,France,197.0
+5735,30.0,6.0,28.0,Fem,False,2.0,Tanzania,64.0
+2184,38.0,7.0,28.0,Fem,True,5.0,Mexico,33.0
+2145,40.0,3.0,28.0,Fem,False,5.0,Mexico,93.0
+7047,37.0,8.0,22.0,Masc,True,10.0,Canada,280.0
+3105,46.0,5.0,22.0,Masc,False,7.0,Germany,298.0
+9233,47.0,5.0,10.0,Fem,False,3.0,Ghana,20.0
+9096,37.0,5.0,15.5,Fem,True,7.0,Yemen,39.0
+2769,43.0,5.0,44.0,Fem,False,0.0,Ethiopia,113.0
+5221,40.0,6.0,44.0,Fem,False,7.0,Spain,139.0
+5833,48.0,4.0,42.0,Fem,False,2.0,Kenya,45.0
+1732,24.0,6.0,22.0,Masc,True,9.0,Russia,204.0
+265,32.0,9.0,28.0,Fem,False,6.0,India,133.0
+5144,37.0,7.0,28.0,Fem,False,3.0,Colombia,60.0
+8267,27.0,3.0,22.0,Fem,False,6.0,Saudi Arabia,157.0
+3937,45.0,6.0,44.0,Masc,False,4.0,France,294.0
+761,43.0,6.0,22.0,Fem,False,1.0,Indonesia,24.0
+7220,34.0,6.0,28.0,Fem,False,7.0,Iraq,215.0
+8439,43.0,5.0,22.0,Fem,False,3.0,Venezuela,52.0
+3257,18.0,2.0,44.0,Masc,True,5.0,Iran,199.0
+4338,35.0,5.0,42.0,Masc,False,2.0,Italy,77.0
+4362,39.0,6.0,15.5,Fem,True,4.0,Italy,184.0
+316,27.0,3.0,28.0,Masc,False,0.0,India,69.0
+8069,44.0,5.0,15.5,Fem,False,6.0,Malaysia,114.0
+1851,34.0,5.0,22.0,Fem,False,5.0,Japan,141.0
+2484,30.0,9.0,44.0,Fem,False,5.0,Vietnam,109.0
+9873,34.0,7.0,22.0,Fem,False,4.0,Taiwan,69.0
+9574,43.0,7.0,28.0,Fem,False,7.0,Mozambique,97.0
+1078,27.0,5.0,28.0,Fem,False,4.0,Pakistan,108.0
+8358,36.0,3.0,22.0,Masc,False,2.0,Saudi Arabia,90.0
+7333,35.0,5.0,28.0,Masc,False,6.0,Iraq,183.0
+1071,31.0,9.0,15.5,Fem,False,4.0,Pakistan,62.0
+103,38.0,2.0,28.0,Masc,False,1.0,China,95.0
+5748,48.0,3.0,28.0,Fem,False,4.0,Tanzania,110.0
+1418,44.0,5.0,15.5,Masc,False,4.0,Bangladesh,41.0
+1658,42.0,4.0,28.0,Fem,False,4.0,Russia,146.0
+5284,32.0,7.0,15.5,Fem,False,4.0,Spain,182.0
+1149,29.0,7.0,44.0,Masc,False,9.0,Pakistan,89.0
+7150,35.0,8.0,44.0,Masc,True,2.0,Canada,108.0
+1568,37.0,10.0,44.0,Masc,False,5.0,Bangladesh,77.0
+1087,37.0,8.0,57.0,Fem,False,4.0,Pakistan,94.0
+6085,54.0,3.0,42.0,Fem,False,3.0,Argentina,61.0
+8674,43.0,7.0,42.0,Fem,False,6.0,Nepal,129.0
+8341,55.0,5.0,44.0,Fem,False,7.0,Saudi Arabia,290.0
+7811,40.0,5.0,42.0,Fem,True,4.0,Uzbekistan,45.0
+6084,24.0,9.0,44.0,Masc,False,6.0,Argentina,222.0
+8773,41.0,7.0,15.5,Fem,False,10.0,Nepal,117.0
+8757,35.0,2.0,15.5,Fem,False,4.0,Nepal,73.0
+1692,29.0,6.0,22.0,Fem,True,9.0,Russia,192.0
+4734,23.0,6.0,28.0,Fem,False,6.0,South Africa,81.0
+3387,45.0,7.0,10.0,Masc,False,9.0,Iran,86.0
+3646,36.0,7.0,44.0,Masc,True,3.0,Thailand,70.0
+1683,48.0,9.0,44.0,Masc,False,3.0,Russia,86.0
+8,42.0,7.0,42.0,Masc,True,5.0,China,114.0
+6062,37.0,5.0,22.0,Masc,False,7.0,Argentina,149.0
+6516,42.0,7.0,44.0,Fem,False,2.0,Poland,56.0
+4123,36.0,4.0,44.0,Fem,False,6.0,United Kingdom,292.0
+8729,49.0,9.0,28.0,Fem,False,6.0,Nepal,243.0
+6045,34.0,3.0,15.5,Fem,False,3.0,Argentina,69.0
+567,38.0,5.0,44.0,Masc,False,1.0,United States,117.0
+9161,44.0,2.0,57.0,Fem,False,4.0,Yemen,83.0
+1803,36.0,6.0,44.0,Masc,False,1.0,Japan,71.0
+8501,26.0,7.0,28.0,Fem,False,9.0,Venezuela,249.0
+4900,31.0,11.0,44.0,Fem,True,9.0,South Korea,122.0
+1599,48.0,7.0,10.0,Fem,False,3.0,Bangladesh,22.0
+7931,31.0,5.0,42.0,Fem,True,4.0,Uzbekistan,68.0
+9547,46.0,5.0,22.0,Masc,False,7.0,Mozambique,249.0
+2823,21.0,7.0,28.0,Masc,True,6.0,Egypt,270.0
+5467,35.0,8.0,57.0,Fem,False,6.0,Ukraine,140.0
+3529,39.0,4.0,57.0,Fem,False,1.0,Turkey,71.0
+8683,46.0,9.0,44.0,Fem,False,6.0,Nepal,168.0
+1155,24.0,4.0,57.0,Masc,False,4.0,Pakistan,151.0
+6547,47.0,5.0,42.0,Fem,False,0.0,Poland,120.0
+9088,29.0,5.0,22.0,Fem,False,3.0,Yemen,28.0
+7620,28.0,8.0,57.0,Fem,False,6.0,Peru,187.0
+8296,42.0,7.0,44.0,Fem,True,4.0,Saudi Arabia,97.0
+4540,28.0,5.0,10.0,Masc,False,8.0,Burma,55.0
+9134,41.0,8.0,44.0,Masc,False,10.0,Yemen,105.0
+6482,49.0,3.0,10.0,Masc,True,6.0,Poland,227.0
+5826,51.0,6.0,44.0,Masc,False,7.0,Kenya,115.0
+1190,50.0,6.0,28.0,Fem,False,7.0,Pakistan,182.0
+7444,42.0,9.0,28.0,Fem,False,5.0,Morocco,148.0
+8520,36.0,9.0,44.0,Masc,False,5.0,Venezuela,194.0
+960,42.0,10.0,28.0,Fem,False,2.0,Brazil,78.0
+7454,32.0,1.0,57.0,Masc,False,1.0,Morocco,57.0
+36,29.0,8.0,28.0,Masc,False,4.0,China,191.0
+7516,27.0,2.0,22.0,Masc,False,6.0,Morocco,71.0
+7644,31.0,5.0,10.0,Masc,False,6.0,Peru,138.0
+4438,36.0,3.0,44.0,Fem,True,4.0,Burma,135.0
+6161,36.0,5.0,28.0,Masc,True,7.0,Argentina,97.0
+7744,50.0,5.0,28.0,Fem,False,10.0,Peru,67.0
+9587,42.0,5.0,22.0,Fem,False,7.0,Mozambique,247.0
+8119,33.0,4.0,10.0,Fem,False,9.0,Malaysia,39.0
+6967,34.0,6.0,28.0,Fem,False,4.0,Uganda,91.0
+5718,44.0,4.0,28.0,Fem,False,4.0,Tanzania,79.0
+577,34.0,9.0,44.0,Masc,False,5.0,United States,205.0
+9833,34.0,7.0,28.0,Fem,False,4.0,Taiwan,267.0
+4102,32.0,7.0,22.0,Fem,True,7.0,United Kingdom,140.0
+7646,27.0,9.0,28.0,Fem,True,3.0,Peru,107.0
+4151,25.0,7.0,28.0,Masc,False,5.0,United Kingdom,97.0
+3130,46.0,2.0,57.0,Fem,False,7.0,Germany,274.0
+4890,46.0,10.0,42.0,Masc,False,4.0,South Korea,246.0
+9975,32.0,8.0,44.0,Fem,False,5.0,Taiwan,178.0
+7471,44.0,9.0,22.0,Fem,True,2.0,Morocco,27.0
+1833,45.0,5.0,44.0,Masc,False,0.0,Japan,91.0
+9148,27.0,7.0,22.0,Fem,True,4.0,Yemen,70.0
+4891,43.0,6.0,22.0,Fem,False,1.0,South Korea,107.0
+2287,43.0,5.0,28.0,Masc,False,4.0,Philippines,240.0
+1330,22.0,3.0,44.0,Fem,True,3.0,Nigeria,20.0
+2771,37.0,5.0,22.0,Masc,False,2.0,Ethiopia,85.0
+3686,42.0,7.0,57.0,Masc,True,3.0,Thailand,38.0
+8283,35.0,4.0,44.0,Masc,True,3.0,Saudi Arabia,71.0
+5928,23.0,9.0,15.5,Fem,False,1.0,Kenya,27.0
+637,59.0,6.0,44.0,Fem,True,3.0,Indonesia,52.0
+47,33.0,4.0,10.0,Fem,False,7.0,China,74.0
+2602,34.0,7.0,44.0,Fem,False,4.0,Ethiopia,260.0
+1965,45.0,7.0,15.5,Fem,False,3.0,Japan,85.0
+2168,38.0,7.0,15.5,Fem,False,4.0,Mexico,62.0
+5049,31.0,9.0,44.0,Fem,False,5.0,Colombia,211.0
+3334,36.0,6.0,22.0,Masc,True,3.0,Iran,68.0
+3019,23.0,3.0,44.0,Fem,False,2.0,Germany,126.0
+8764,39.0,5.0,22.0,Fem,False,8.0,Nepal,132.0
+9176,34.0,5.0,28.0,Fem,True,7.0,Yemen,199.0
+1360,35.0,6.0,15.5,Fem,True,9.0,Nigeria,36.0
+5798,39.0,4.0,42.0,Fem,False,4.0,Tanzania,150.0
+9400,41.0,7.0,28.0,Fem,False,3.0,Mozambique,109.0
+3251,43.0,7.0,15.5,Fem,False,2.0,Iran,34.0
+6300,27.0,2.0,22.0,Fem,True,4.0,Algeria,47.0
+2251,43.0,5.0,22.0,Fem,True,3.0,Philippines,22.0
+6027,32.0,8.0,15.5,Masc,True,4.0,Argentina,148.0
+1175,22.0,8.0,22.0,Fem,True,6.0,Pakistan,62.0
+8799,34.0,7.0,22.0,Masc,False,6.0,Nepal,147.0
+3279,36.0,4.0,44.0,Fem,False,2.0,Iran,52.0
+2973,49.0,4.0,15.5,Masc,True,6.0,Egypt,84.0
+3396,34.0,3.0,22.0,Fem,True,2.0,Iran,56.0
+6939,23.0,7.0,28.0,Fem,False,7.0,Uganda,250.0
+965,52.0,5.0,44.0,Masc,True,4.0,Brazil,246.0
+8574,48.0,7.0,44.0,Masc,False,4.0,Venezuela,190.0
+742,54.0,5.0,44.0,Fem,False,5.0,Indonesia,115.0
+7514,46.0,5.0,57.0,Masc,False,8.0,Morocco,146.0
+3314,38.0,7.0,28.0,Fem,True,5.0,Iran,126.0
+4898,30.0,9.0,15.5,Fem,False,7.0,South Korea,166.0
+9340,44.0,4.0,10.0,Fem,False,5.0,Ghana,35.0
+4672,29.0,2.0,57.0,Fem,False,7.0,South Africa,181.0
+8618,35.0,5.0,44.0,Fem,False,3.0,Nepal,68.0
+1217,38.0,6.0,10.0,Masc,False,6.0,Nigeria,38.0
+4397,31.0,3.0,22.0,Fem,False,2.0,Italy,64.0
+6080,26.0,5.0,44.0,Fem,False,4.0,Argentina,146.0
+2614,40.0,7.0,15.5,Fem,False,7.0,Ethiopia,276.0
+2620,37.0,8.0,22.0,Fem,False,1.0,Ethiopia,60.0
+8714,36.0,7.0,22.0,Fem,False,6.0,Nepal,102.0
+7282,47.0,9.0,57.0,Fem,False,5.0,Iraq,105.0
+3379,37.0,2.0,44.0,Fem,False,4.0,Iran,98.0
+7301,42.0,6.0,15.5,Fem,False,1.0,Iraq,49.0
+9857,45.0,6.0,28.0,Masc,False,3.0,Taiwan,163.0
+5605,37.0,10.0,22.0,Fem,False,4.0,Tanzania,87.0
+9813,34.0,3.0,22.0,Fem,False,0.0,Taiwan,87.0
+5786,22.0,6.0,57.0,Fem,False,6.0,Tanzania,91.0
+8518,39.0,6.0,28.0,Fem,True,3.0,Venezuela,125.0
+6850,26.0,6.0,28.0,Fem,False,2.0,Uganda,44.0
+1516,27.0,8.0,44.0,Fem,True,3.0,Bangladesh,25.0
+5098,40.0,5.0,15.5,Fem,False,7.0,Colombia,90.0
+7636,47.0,11.0,15.5,Fem,False,1.0,Peru,37.0
+9085,34.0,5.0,22.0,Fem,True,4.0,Yemen,76.0
+8023,43.0,7.0,15.5,Fem,False,4.0,Malaysia,124.0
+2392,37.0,7.0,42.0,Masc,False,5.0,Philippines,74.0
+586,22.0,9.0,42.0,Masc,False,6.0,United States,296.0
+3519,44.0,4.0,42.0,Masc,True,4.0,Turkey,133.0
+7653,31.0,3.0,22.0,Fem,False,6.0,Peru,113.0
+8946,38.0,4.0,57.0,Masc,False,4.0,Afghanistan,97.0
+850,38.0,6.0,10.0,Fem,True,6.0,Brazil,94.0
+335,30.0,6.0,28.0,Fem,False,1.0,India,28.0
+6634,34.0,5.0,22.0,Fem,False,5.0,Sudan,25.0
+8972,38.0,5.0,42.0,Masc,True,6.0,Afghanistan,97.0
+7493,26.0,8.0,28.0,Masc,False,2.0,Morocco,9.0
+2868,36.0,6.0,44.0,Masc,False,0.0,Egypt,35.0
+4872,44.0,6.0,44.0,Fem,True,2.0,South Korea,60.0
+3550,43.0,4.0,57.0,Fem,False,8.0,Turkey,202.0
+3842,42.0,6.0,28.0,Fem,False,8.0,France,240.0
+7262,27.0,8.0,10.0,Masc,True,6.0,Iraq,61.0
+5824,55.0,9.0,44.0,Fem,False,4.0,Kenya,144.0
+23,49.0,2.0,22.0,Masc,False,1.0,China,61.0
+1453,31.0,4.0,44.0,Masc,False,2.0,Bangladesh,61.0
+1684,43.0,4.0,42.0,Masc,False,6.0,Russia,214.0
+2310,18.0,8.0,44.0,Fem,False,2.0,Philippines,61.0
+9063,44.0,6.0,10.0,Fem,False,7.0,Yemen,47.0
+9406,32.0,4.0,28.0,Fem,True,6.0,Mozambique,97.0
+381,39.0,6.0,57.0,Fem,False,2.0,India,70.0
+5814,40.0,7.0,22.0,Fem,False,7.0,Kenya,105.0
+5550,30.0,8.0,22.0,Fem,False,2.0,Ukraine,28.0
+9308,41.0,9.0,28.0,Fem,False,8.0,Ghana,227.0
+1618,44.0,4.0,22.0,Fem,False,4.0,Russia,149.0
+789,36.0,4.0,28.0,Masc,False,6.0,Indonesia,210.0
+5983,27.0,7.0,22.0,Fem,True,3.0,Kenya,40.0
+8672,24.0,6.0,22.0,Fem,True,5.0,Nepal,175.0
+4475,33.0,5.0,44.0,Masc,False,0.0,Burma,53.0
+5606,47.0,4.0,57.0,Fem,True,10.0,Tanzania,86.0
+9312,35.0,6.0,28.0,Fem,False,1.0,Ghana,26.0
+5648,40.0,5.0,28.0,Fem,False,6.0,Tanzania,79.0
+6216,31.0,4.0,42.0,Fem,False,7.0,Algeria,139.0
+2286,34.0,4.0,42.0,Fem,True,3.0,Philippines,29.0
+9993,43.0,7.0,22.0,Fem,False,4.0,Taiwan,265.0
+7578,49.0,7.0,28.0,Masc,True,0.0,Morocco,71.0
+1183,48.0,5.0,22.0,Fem,False,3.0,Pakistan,19.0
+6001,26.0,5.0,22.0,Fem,True,7.0,Argentina,221.0
+5090,45.0,3.0,10.0,Fem,False,3.0,Colombia,49.0
+2516,32.0,5.0,22.0,Fem,True,4.0,Vietnam,33.0
+4122,49.0,5.0,44.0,Fem,False,5.0,United Kingdom,194.0
+5521,45.0,6.0,57.0,Fem,True,3.0,Ukraine,74.0
+5627,39.0,8.0,44.0,Fem,False,7.0,Tanzania,133.0
+8360,53.0,7.0,22.0,Fem,False,1.0,Saudi Arabia,68.0
+5872,41.0,5.0,28.0,Masc,True,7.0,Kenya,205.0
+8612,35.0,7.0,22.0,Fem,True,9.0,Nepal,151.0
+7727,24.0,3.0,57.0,Fem,False,4.0,Peru,80.0
+5968,36.0,9.0,15.5,Fem,False,1.0,Kenya,37.0
+1180,36.0,4.0,15.5,Masc,True,10.0,Pakistan,61.0
+8762,35.0,9.0,15.5,Fem,False,6.0,Nepal,94.0
+8235,30.0,3.0,10.0,Fem,True,5.0,Saudi Arabia,189.0
+2818,37.0,10.0,15.5,Fem,False,6.0,Egypt,80.0
+9964,44.0,10.0,44.0,Fem,False,6.0,Taiwan,202.0
+8703,31.0,6.0,44.0,Fem,False,5.0,Nepal,210.0
+6608,30.0,5.0,42.0,Fem,False,3.0,Sudan,30.0
+2820,36.0,6.0,28.0,Masc,False,7.0,Egypt,209.0
+7535,39.0,5.0,22.0,Fem,False,6.0,Morocco,67.0
+2260,51.0,5.0,44.0,Fem,False,6.0,Philippines,133.0
+2239,34.0,9.0,28.0,Fem,False,2.0,Philippines,79.0
+6021,36.0,9.0,42.0,Fem,True,6.0,Argentina,179.0
+782,25.0,5.0,44.0,Fem,False,5.0,Indonesia,107.0
+932,33.0,6.0,44.0,Masc,False,3.0,Brazil,72.0
+6202,43.0,6.0,15.5,Fem,False,5.0,Algeria,54.0
+2412,36.0,6.0,28.0,Masc,False,0.0,Vietnam,33.0
+6997,41.0,3.0,15.5,Fem,False,3.0,Uganda,53.0
+9115,48.0,6.0,44.0,Fem,False,3.0,Yemen,33.0
+1156,28.0,8.0,44.0,Masc,False,7.0,Pakistan,92.0
+8107,43.0,5.0,28.0,Masc,False,6.0,Malaysia,159.0
+5805,37.0,6.0,22.0,Fem,False,3.0,Kenya,36.0
+4879,34.0,7.0,15.5,Fem,False,4.0,South Korea,124.0
+3309,54.0,7.0,15.5,Fem,False,6.0,Iran,140.0
+8961,38.0,6.0,22.0,Fem,False,6.0,Afghanistan,116.0
+1702,27.0,7.0,44.0,Masc,False,7.0,Russia,200.0
+2492,29.0,6.0,22.0,Fem,False,0.0,Vietnam,21.0
+3706,41.0,8.0,44.0,Masc,False,4.0,Thailand,164.0
+8276,31.0,6.0,22.0,Fem,False,9.0,Saudi Arabia,108.0
+286,46.0,6.0,22.0,Masc,False,1.0,India,31.0
+1608,37.0,3.0,28.0,Masc,False,9.0,Russia,324.0
+6631,31.0,6.0,22.0,Fem,True,4.0,Sudan,41.0
+8278,35.0,3.0,15.5,Masc,False,2.0,Saudi Arabia,48.0
+7315,42.0,9.0,57.0,Fem,False,4.0,Iraq,140.0
+2252,43.0,6.0,22.0,Fem,False,1.0,Philippines,30.0
+7415,37.0,5.0,22.0,Fem,False,6.0,Morocco,72.0
+8365,48.0,6.0,42.0,Fem,False,1.0,Saudi Arabia,62.0
+1891,43.0,5.0,22.0,Masc,False,5.0,Japan,168.0
+5062,21.0,6.0,28.0,Fem,False,7.0,Colombia,132.0
+6120,42.0,5.0,15.5,Masc,False,4.0,Argentina,170.0
+563,38.0,5.0,44.0,Masc,False,4.0,United States,270.0
+291,33.0,4.0,22.0,Fem,True,2.0,India,28.0
+4716,44.0,6.0,10.0,Fem,False,8.0,South Africa,83.0
+7708,49.0,4.0,28.0,Masc,False,5.0,Peru,223.0
+6349,43.0,6.0,15.5,Fem,False,3.0,Algeria,15.0
+169,44.0,6.0,44.0,Masc,False,5.0,China,93.0
+267,22.0,7.0,42.0,Masc,False,3.0,India,28.0
+4638,28.0,5.0,28.0,Masc,False,5.0,South Africa,140.0
+7077,43.0,3.0,42.0,Masc,False,7.0,Canada,212.0
+3355,27.0,5.0,15.5,Fem,False,3.0,Iran,38.0
+8279,37.0,11.0,44.0,Fem,True,3.0,Saudi Arabia,28.0
+315,37.0,3.0,22.0,Fem,True,4.0,India,44.0
+6728,35.0,5.0,42.0,Fem,False,3.0,Sudan,31.0
+9495,39.0,8.0,44.0,Masc,False,3.0,Mozambique,39.0
+4067,42.0,5.0,44.0,Masc,False,8.0,United Kingdom,151.0
+245,28.0,4.0,44.0,Fem,True,1.0,India,49.0
+252,50.0,8.0,42.0,Masc,True,6.0,India,123.0
+1111,30.0,9.0,10.0,Fem,False,4.0,Pakistan,64.0
+4801,43.0,5.0,44.0,Fem,False,8.0,South Korea,185.0
+1713,33.0,3.0,42.0,Masc,False,10.0,Russia,284.0
+50,31.0,9.0,15.5,Masc,True,3.0,China,52.0
+1835,35.0,10.0,15.5,Fem,False,6.0,Japan,167.0
+7896,34.0,8.0,22.0,Masc,False,2.0,Uzbekistan,33.0
+3383,24.0,6.0,22.0,Fem,False,3.0,Iran,42.0
+6410,27.0,1.0,44.0,Fem,False,2.0,Poland,76.0
+4313,43.0,2.0,10.0,Fem,False,5.0,Italy,193.0
+872,43.0,4.0,44.0,Masc,False,3.0,Brazil,36.0
+1254,34.0,6.0,10.0,Masc,False,4.0,Nigeria,4.0
+8881,47.0,6.0,44.0,Fem,False,6.0,Afghanistan,97.0
+5851,46.0,4.0,28.0,Masc,False,2.0,Kenya,58.0
+5702,35.0,5.0,22.0,Fem,False,1.0,Tanzania,34.0
+8103,26.0,7.0,15.5,Masc,False,4.0,Malaysia,75.0
+2098,32.0,6.0,42.0,Fem,False,4.0,Mexico,156.0
+5128,34.0,6.0,10.0,Fem,False,4.0,Colombia,89.0
+248,39.0,7.0,15.5,Fem,False,2.0,India,22.0
+6561,42.0,4.0,28.0,Fem,False,7.0,Poland,177.0
+1339,31.0,4.0,28.0,Fem,False,10.0,Nigeria,58.0
+7017,30.0,5.0,42.0,Masc,False,6.0,Canada,172.0
+2110,43.0,3.0,57.0,Fem,False,4.0,Mexico,202.0
+1569,45.0,3.0,44.0,Fem,False,0.0,Bangladesh,25.0
+1726,34.0,4.0,22.0,Masc,False,5.0,Russia,13.0
+8384,35.0,2.0,42.0,Masc,False,6.0,Saudi Arabia,289.0
+6940,30.0,9.0,22.0,Fem,False,9.0,Uganda,208.0
+4395,36.0,6.0,22.0,Fem,False,2.0,Italy,58.0
+2420,29.0,2.0,28.0,Fem,False,3.0,Vietnam,49.0
+3045,34.0,10.0,22.0,Masc,False,5.0,Germany,148.0
+5503,28.0,5.0,44.0,Fem,False,2.0,Ukraine,74.0
+3703,40.0,7.0,44.0,Masc,True,5.0,Thailand,66.0
+8191,37.0,4.0,42.0,Masc,True,4.0,Malaysia,103.0
+5331,26.0,5.0,28.0,Masc,False,4.0,Spain,97.0
+9808,37.0,5.0,42.0,Masc,True,10.0,Taiwan,290.0
+447,30.0,5.0,44.0,Masc,False,1.0,United States,145.0
+7894,51.0,5.0,44.0,Fem,False,3.0,Uzbekistan,39.0
+8728,39.0,7.0,10.0,Fem,False,1.0,Nepal,25.0
+7828,37.0,7.0,42.0,Fem,True,3.0,Uzbekistan,46.0
+1768,23.0,3.0,57.0,Fem,False,9.0,Russia,127.0
+6808,31.0,4.0,42.0,Fem,True,3.0,Uganda,86.0
+4704,41.0,7.0,28.0,Fem,True,4.0,South Africa,85.0
+3869,27.0,4.0,10.0,Masc,True,4.0,France,245.0
+1655,40.0,6.0,44.0,Fem,False,10.0,Russia,61.0
+3187,40.0,9.0,42.0,Fem,True,7.0,Germany,220.0
+683,28.0,7.0,44.0,Fem,False,6.0,Indonesia,92.0
+4170,38.0,7.0,10.0,Fem,False,1.0,United Kingdom,35.0
+4477,48.0,3.0,15.5,Fem,False,7.0,Burma,56.0
+461,41.0,3.0,22.0,Masc,False,5.0,United States,156.0
+5764,32.0,6.0,44.0,Masc,False,6.0,Tanzania,86.0
+7522,29.0,6.0,57.0,Masc,False,3.0,Morocco,56.0
+4502,22.0,7.0,15.5,Masc,True,2.0,Burma,51.0
+9709,49.0,3.0,44.0,Fem,True,1.0,Australia,117.0
+318,35.0,7.0,22.0,Fem,False,5.0,India,74.0
+1145,43.0,9.0,28.0,Fem,False,10.0,Pakistan,144.0
+5094,34.0,1.0,57.0,Masc,False,10.0,Colombia,195.0
+1393,37.0,11.0,44.0,Fem,False,8.0,Nigeria,72.0
+6623,33.0,9.0,15.5,Fem,False,5.0,Sudan,52.0
+1501,36.0,8.0,22.0,Masc,False,3.0,Bangladesh,28.0
+6408,29.0,5.0,42.0,Masc,False,7.0,Poland,102.0
+376,35.0,5.0,28.0,Masc,False,4.0,India,162.0
+410,44.0,7.0,28.0,Masc,False,3.0,United States,138.0
+1660,26.0,7.0,22.0,Masc,False,6.0,Russia,205.0
+3151,34.0,6.0,22.0,Fem,False,2.0,Germany,88.0
+1623,31.0,5.0,44.0,Masc,False,5.0,Russia,95.0
+5609,44.0,6.0,15.5,Fem,False,6.0,Tanzania,93.0
+8532,38.0,9.0,28.0,Masc,False,3.0,Venezuela,68.0
+5802,47.0,6.0,28.0,Fem,True,6.0,Kenya,196.0
+5306,36.0,4.0,42.0,Fem,False,2.0,Spain,72.0
+7086,32.0,3.0,28.0,Fem,False,2.0,Canada,136.0
+8897,46.0,6.0,28.0,Masc,False,4.0,Afghanistan,220.0
+7488,42.0,6.0,22.0,Masc,False,4.0,Morocco,59.0
+9615,46.0,6.0,42.0,Fem,False,5.0,Australia,244.0
+9217,45.0,5.0,42.0,Masc,False,5.0,Ghana,124.0
+1672,27.0,2.0,22.0,Masc,False,6.0,Russia,175.0
+2358,41.0,1.0,15.5,Fem,True,7.0,Philippines,54.0
+8467,49.0,7.0,22.0,Masc,False,1.0,Venezuela,57.0
+274,43.0,3.0,28.0,Masc,False,7.0,India,197.0
+2473,39.0,3.0,44.0,Fem,False,2.0,Vietnam,53.0
+5489,36.0,5.0,42.0,Fem,False,4.0,Ukraine,120.0
+4771,39.0,6.0,28.0,Masc,True,4.0,South Africa,209.0
+2107,24.0,7.0,28.0,Fem,False,3.0,Mexico,128.0
+7500,27.0,6.0,44.0,Fem,False,10.0,Morocco,134.0
+4414,29.0,7.0,57.0,Masc,True,5.0,Burma,204.0
+8138,30.0,5.0,22.0,Masc,False,7.0,Malaysia,73.0
+8660,44.0,4.0,22.0,Fem,False,4.0,Nepal,170.0
+8239,29.0,11.0,44.0,Fem,True,3.0,Saudi Arabia,38.0
+2417,26.0,10.0,15.5,Fem,True,2.0,Vietnam,20.0
+8771,32.0,1.0,44.0,Masc,False,3.0,Nepal,77.0
+2236,21.0,5.0,44.0,Masc,True,7.0,Philippines,116.0
+3767,50.0,6.0,44.0,Fem,False,4.0,Thailand,174.0
+9791,51.0,5.0,57.0,Fem,False,4.0,Australia,249.0
+9989,45.0,5.0,44.0,Fem,False,6.0,Taiwan,294.0
+9965,41.0,5.0,28.0,Masc,True,9.0,Taiwan,97.0
+7323,33.0,5.0,44.0,Fem,False,5.0,Iraq,46.0
+1383,37.0,6.0,22.0,Fem,False,4.0,Nigeria,42.0
+3101,44.0,4.0,15.5,Masc,True,4.0,Germany,327.0
+3921,30.0,2.0,44.0,Fem,False,2.0,France,70.0
+6685,32.0,4.0,28.0,Fem,False,7.0,Sudan,66.0
+3194,37.0,3.0,28.0,Masc,False,6.0,Germany,257.0
+1941,33.0,6.0,28.0,Fem,True,5.0,Japan,97.0
+7713,37.0,7.0,22.0,Fem,False,3.0,Peru,52.0
+4896,35.0,5.0,28.0,Fem,True,5.0,South Korea,97.0
+4782,26.0,5.0,44.0,Masc,True,4.0,South Africa,201.0
+1496,32.0,6.0,44.0,Fem,False,4.0,Bangladesh,174.0
+1957,37.0,6.0,57.0,Fem,False,2.0,Japan,122.0
+9171,46.0,7.0,57.0,Masc,False,3.0,Yemen,49.0
+9745,41.0,7.0,42.0,Fem,False,4.0,Australia,220.0
+7332,42.0,5.0,22.0,Fem,True,2.0,Iraq,44.0
+7949,52.0,10.0,22.0,Fem,True,3.0,Uzbekistan,19.0
+3017,34.0,5.0,44.0,Masc,False,5.0,Germany,181.0
+6746,36.0,10.0,15.5,Fem,False,3.0,Sudan,18.0
+513,36.0,5.0,57.0,Fem,False,3.0,United States,132.0
+3934,22.0,5.0,28.0,Fem,True,4.0,France,97.0
+3025,30.0,5.0,22.0,Fem,False,7.0,Germany,232.0
+1199,37.0,7.0,15.5,Fem,False,4.0,Pakistan,31.0
+5028,30.0,4.0,22.0,Masc,False,6.0,Colombia,111.0
+9784,37.0,6.0,15.5,Fem,True,4.0,Australia,212.0
+921,41.0,10.0,44.0,Fem,True,6.0,Brazil,122.0
+4649,43.0,10.0,28.0,Fem,False,5.0,South Africa,126.0
+5332,29.0,5.0,44.0,Fem,False,4.0,Spain,204.0
+1076,36.0,8.0,15.5,Fem,False,7.0,Pakistan,59.0
+6768,37.0,5.0,22.0,Fem,False,3.0,Sudan,30.0
+9410,39.0,4.0,42.0,Masc,True,6.0,Mozambique,248.0
+1671,39.0,4.0,28.0,Masc,False,1.0,Russia,32.0
+474,49.0,5.0,44.0,Fem,False,6.0,United States,303.0
+9186,25.0,10.0,22.0,Fem,False,4.0,Yemen,61.0
+8839,40.0,8.0,44.0,Fem,True,0.0,Afghanistan,153.0
+5758,35.0,4.0,44.0,Masc,False,4.0,Tanzania,179.0
+6297,39.0,4.0,44.0,Masc,False,2.0,Algeria,47.0
+2478,31.0,2.0,44.0,Fem,False,5.0,Vietnam,74.0
+5493,40.0,6.0,44.0,Fem,False,10.0,Ukraine,161.0
+3914,25.0,3.0,44.0,Masc,False,4.0,France,302.0
+2138,31.0,6.0,22.0,Fem,False,4.0,Mexico,96.0
+5454,50.0,4.0,10.0,Fem,True,9.0,Ukraine,87.0
+5379,42.0,4.0,28.0,Fem,False,3.0,Spain,72.0
+8985,43.0,4.0,22.0,Fem,False,4.0,Afghanistan,117.0
+4023,37.0,3.0,22.0,Masc,False,1.0,United Kingdom,79.0
+3485,30.0,5.0,57.0,Masc,False,6.0,Turkey,132.0
+2455,35.0,7.0,44.0,Fem,False,9.0,Vietnam,103.0
+2464,51.0,7.0,15.5,Fem,True,4.0,Vietnam,73.0
+8696,48.0,6.0,44.0,Fem,False,2.0,Nepal,82.0
+1369,37.0,7.0,28.0,Fem,False,4.0,Nigeria,104.0
+6688,32.0,5.0,42.0,Masc,False,3.0,Sudan,27.0
+7456,45.0,4.0,22.0,Masc,True,5.0,Morocco,77.0
+9974,30.0,8.0,44.0,Masc,False,2.0,Taiwan,139.0
+1901,52.0,6.0,22.0,Fem,True,5.0,Japan,316.0
+4871,32.0,6.0,10.0,Fem,False,4.0,South Korea,99.0
+4710,41.0,4.0,42.0,Masc,False,6.0,South Africa,122.0
+7886,37.0,1.0,22.0,Masc,True,7.0,Uzbekistan,50.0
+1793,53.0,3.0,28.0,Masc,False,10.0,Russia,158.0
+2874,34.0,6.0,44.0,Masc,False,5.0,Egypt,111.0
+6217,39.0,4.0,22.0,Masc,False,2.0,Algeria,55.0
+5213,43.0,6.0,28.0,Fem,False,4.0,Spain,287.0
+2245,31.0,5.0,22.0,Fem,False,6.0,Philippines,81.0
+1741,36.0,7.0,44.0,Masc,False,6.0,Russia,198.0
+1020,22.0,4.0,44.0,Fem,True,10.0,Pakistan,127.0
+705,25.0,4.0,44.0,Fem,False,4.0,Indonesia,122.0
+4294,38.0,5.0,57.0,Fem,False,4.0,Italy,160.0
+5576,38.0,4.0,44.0,Fem,False,1.0,Ukraine,55.0
+7166,38.0,3.0,44.0,Fem,False,2.0,Canada,95.0
+8177,26.0,6.0,28.0,Masc,False,3.0,Malaysia,163.0
+908,29.0,6.0,22.0,Fem,True,3.0,Brazil,45.0
+5193,41.0,3.0,22.0,Masc,False,6.0,Colombia,146.0
+3077,33.0,5.0,44.0,Masc,True,10.0,Germany,287.0
+9366,48.0,5.0,28.0,Fem,False,2.0,Ghana,53.0
+594,28.0,5.0,44.0,Fem,False,6.0,United States,226.0
+5304,48.0,5.0,22.0,Masc,False,6.0,Spain,118.0
+440,34.0,5.0,57.0,Masc,False,10.0,United States,97.0
+7606,39.0,9.0,28.0,Fem,True,3.0,Peru,79.0
+4092,52.0,5.0,42.0,Fem,False,0.0,United Kingdom,55.0
+6134,43.0,7.0,28.0,Fem,True,4.0,Argentina,118.0
+10,35.0,9.0,28.0,Masc,True,3.0,China,42.0
+3776,28.0,5.0,28.0,Masc,False,5.0,Thailand,69.0
+8999,39.0,8.0,15.5,Fem,True,0.0,Afghanistan,143.0
+3708,33.0,6.0,15.5,Masc,True,3.0,Thailand,15.0
+3780,37.0,5.0,42.0,Fem,False,5.0,Thailand,165.0
+93,39.0,7.0,28.0,Fem,False,1.0,China,60.0
+9239,44.0,6.0,28.0,Masc,False,7.0,Ghana,156.0
+3949,41.0,4.0,44.0,Masc,True,4.0,France,234.0
+5785,43.0,7.0,22.0,Fem,False,1.0,Tanzania,41.0
+4870,33.0,6.0,57.0,Fem,False,4.0,South Korea,301.0
+4802,37.0,3.0,10.0,Fem,True,6.0,South Korea,100.0
+4867,24.0,5.0,42.0,Fem,False,7.0,South Korea,318.0
+292,36.0,8.0,28.0,Fem,True,6.0,India,96.0
+7888,33.0,10.0,42.0,Fem,True,3.0,Uzbekistan,51.0
+7405,51.0,11.0,44.0,Fem,False,1.0,Morocco,27.0
+5595,31.0,6.0,15.5,Fem,True,4.0,Ukraine,103.0
+2886,49.0,9.0,28.0,Fem,False,4.0,Egypt,78.0
+6454,36.0,4.0,28.0,Fem,True,4.0,Poland,234.0
+2542,29.0,6.0,28.0,Masc,True,1.0,Vietnam,38.0
+1765,44.0,6.0,15.5,Fem,False,2.0,Russia,64.0
+6800,47.0,6.0,15.5,Fem,True,5.0,Uganda,146.0
+1877,48.0,6.0,22.0,Fem,False,2.0,Japan,77.0
+1981,42.0,6.0,28.0,Masc,True,5.0,Japan,97.0
+9729,34.0,9.0,22.0,Masc,False,5.0,Australia,305.0
+9608,26.0,5.0,22.0,Fem,False,5.0,Australia,97.0
+2685,59.0,3.0,28.0,Fem,True,4.0,Ethiopia,97.0
+8930,45.0,7.0,22.0,Masc,False,3.0,Afghanistan,97.0
+3458,42.0,3.0,28.0,Fem,False,7.0,Turkey,97.0
+4541,37.0,8.0,22.0,Fem,True,4.0,Burma,91.0
+2178,41.0,6.0,57.0,Masc,False,4.0,Mexico,75.0
+4450,25.0,6.0,42.0,Masc,False,3.0,Burma,88.0
+3859,32.0,5.0,28.0,Masc,False,5.0,France,200.0
+7623,49.0,8.0,22.0,Fem,False,3.0,Peru,49.0
+7654,29.0,4.0,15.5,Fem,False,8.0,Peru,107.0
+4519,41.0,7.0,10.0,Masc,False,7.0,Burma,124.0
+2517,39.0,6.0,57.0,Masc,False,9.0,Vietnam,92.0
+4836,45.0,8.0,28.0,Fem,False,1.0,South Korea,87.0
+2885,55.0,7.0,22.0,Masc,False,0.0,Egypt,29.0
+7281,50.0,6.0,57.0,Fem,False,3.0,Iraq,39.0
+6255,41.0,7.0,28.0,Masc,True,3.0,Algeria,120.0
+4539,41.0,9.0,28.0,Fem,False,4.0,Burma,141.0
+5639,28.0,7.0,28.0,Fem,False,1.0,Tanzania,77.0
+9459,39.0,6.0,44.0,Fem,False,7.0,Mozambique,288.0
+3481,23.0,2.0,22.0,Masc,False,9.0,Turkey,134.0
+1277,49.0,7.0,10.0,Masc,False,3.0,Nigeria,18.0
+3146,37.0,6.0,42.0,Fem,True,1.0,Germany,108.0
+8262,48.0,7.0,22.0,Masc,True,3.0,Saudi Arabia,69.0
+3205,37.0,4.0,57.0,Fem,True,5.0,Iran,137.0
+9892,24.0,6.0,22.0,Masc,False,6.0,Taiwan,179.0
+2742,33.0,5.0,42.0,Fem,False,1.0,Ethiopia,82.0
+6076,32.0,4.0,57.0,Fem,True,10.0,Argentina,281.0
+4047,33.0,5.0,28.0,Fem,True,2.0,United Kingdom,118.0
+5731,36.0,3.0,28.0,Fem,False,1.0,Tanzania,48.0
+2945,50.0,2.0,22.0,Masc,False,3.0,Egypt,23.0
+5790,39.0,5.0,28.0,Masc,False,4.0,Tanzania,147.0
+6794,22.0,5.0,57.0,Fem,False,5.0,Sudan,122.0
+6543,45.0,5.0,44.0,Fem,False,5.0,Poland,149.0
+700,38.0,5.0,15.5,Masc,False,6.0,Indonesia,92.0
+3574,49.0,5.0,42.0,Fem,False,2.0,Turkey,49.0
+7699,48.0,6.0,22.0,Fem,False,6.0,Peru,148.0
+2515,32.0,3.0,44.0,Fem,True,4.0,Vietnam,88.0
+3000,45.0,6.0,44.0,Fem,True,6.0,Germany,266.0
+5820,36.0,7.0,44.0,Masc,False,6.0,Kenya,129.0
+8581,26.0,7.0,10.0,Fem,False,9.0,Venezuela,107.0
+3684,41.0,8.0,28.0,Fem,False,4.0,Thailand,97.0
+2995,25.0,8.0,22.0,Masc,True,9.0,Egypt,96.0
+4252,32.0,4.0,15.5,Fem,False,2.0,Italy,66.0
+3411,36.0,2.0,44.0,Masc,False,6.0,Turkey,113.0
+7962,34.0,6.0,44.0,Fem,False,3.0,Uzbekistan,56.0
+6309,36.0,6.0,42.0,Fem,False,3.0,Algeria,61.0
+8611,30.0,1.0,44.0,Masc,False,3.0,Nepal,43.0
+5012,37.0,5.0,28.0,Fem,False,6.0,Colombia,193.0
+7750,29.0,5.0,15.5,Fem,False,5.0,Peru,107.0
+5979,22.0,6.0,44.0,Fem,True,4.0,Kenya,123.0
+4048,28.0,3.0,28.0,Fem,False,10.0,United Kingdom,218.0
+4899,32.0,11.0,42.0,Fem,False,4.0,South Korea,142.0
+1318,37.0,3.0,42.0,Fem,False,0.0,Nigeria,36.0
+9772,29.0,1.0,28.0,Fem,True,7.0,Australia,97.0
+9137,27.0,5.0,28.0,Fem,False,2.0,Yemen,59.0
+7142,54.0,10.0,44.0,Fem,True,3.0,Canada,79.0
+1897,37.0,6.0,57.0,Fem,False,6.0,Japan,235.0
+7465,39.0,6.0,44.0,Fem,False,6.0,Morocco,94.0
+603,37.0,7.0,42.0,Masc,False,6.0,Indonesia,119.0
+2846,37.0,9.0,57.0,Masc,False,4.0,Egypt,148.0
+8207,27.0,6.0,22.0,Fem,True,3.0,Saudi Arabia,69.0
+393,20.0,6.0,44.0,Masc,True,10.0,India,84.0
+4436,42.0,6.0,22.0,Fem,False,1.0,Burma,44.0
+9447,35.0,4.0,22.0,Masc,False,5.0,Mozambique,135.0
+7234,41.0,5.0,15.5,Fem,True,4.0,Iraq,81.0
+5398,41.0,6.0,57.0,Fem,False,2.0,Spain,104.0
+95,29.0,8.0,42.0,Fem,False,4.0,China,166.0
+1662,38.0,7.0,10.0,Fem,False,7.0,Russia,88.0
+8970,40.0,7.0,44.0,Masc,False,3.0,Afghanistan,107.0
+5130,36.0,3.0,15.5,Fem,False,3.0,Colombia,54.0
+1488,32.0,10.0,28.0,Fem,False,5.0,Bangladesh,81.0
+8316,36.0,6.0,44.0,Masc,False,9.0,Saudi Arabia,154.0
+2707,44.0,7.0,44.0,Fem,False,4.0,Ethiopia,253.0
+1595,32.0,5.0,57.0,Masc,False,4.0,Bangladesh,112.0
+9277,37.0,6.0,42.0,Masc,True,5.0,Ghana,81.0
+2377,34.0,8.0,22.0,Masc,False,3.0,Philippines,33.0
+5140,30.0,6.0,44.0,Fem,False,4.0,Colombia,182.0
+6147,37.0,8.0,15.5,Masc,True,4.0,Argentina,144.0
+8241,45.0,4.0,57.0,Fem,True,4.0,Saudi Arabia,97.0
+3948,31.0,8.0,22.0,Fem,False,3.0,France,36.0
+3933,43.0,3.0,15.5,Fem,True,3.0,France,70.0
+4797,37.0,5.0,15.5,Masc,False,3.0,South Africa,24.0
+4372,33.0,4.0,15.5,Fem,False,2.0,Italy,83.0
+9862,49.0,9.0,57.0,Masc,False,5.0,Taiwan,97.0
+8242,37.0,5.0,15.5,Fem,False,5.0,Saudi Arabia,158.0
+3448,48.0,4.0,28.0,Fem,True,4.0,Turkey,221.0
+2943,40.0,7.0,28.0,Masc,True,6.0,Egypt,183.0
+2465,34.0,7.0,42.0,Masc,False,2.0,Vietnam,36.0
+8582,39.0,8.0,44.0,Fem,False,3.0,Venezuela,86.0
+5506,49.0,6.0,28.0,Fem,False,4.0,Ukraine,256.0
+2698,41.0,6.0,57.0,Fem,True,3.0,Ethiopia,90.0
+2447,35.0,6.0,28.0,Fem,True,2.0,Vietnam,25.0
+19,42.0,6.0,42.0,Masc,False,3.0,China,39.0
+2748,33.0,7.0,57.0,Fem,False,2.0,Ethiopia,59.0
+5399,36.0,3.0,44.0,Fem,False,1.0,Spain,19.0
+8078,30.0,4.0,22.0,Masc,False,2.0,Malaysia,34.0
+6871,30.0,6.0,22.0,Masc,True,5.0,Uganda,205.0
+4708,36.0,9.0,28.0,Fem,True,6.0,South Africa,117.0
+9476,28.0,6.0,44.0,Fem,True,4.0,Mozambique,97.0
+809,49.0,6.0,15.5,Masc,False,2.0,Brazil,50.0
+7477,41.0,8.0,42.0,Fem,False,4.0,Morocco,100.0
+2273,29.0,6.0,10.0,Masc,False,6.0,Philippines,87.0
+1923,48.0,6.0,44.0,Masc,False,1.0,Japan,118.0
+1470,42.0,6.0,28.0,Fem,False,2.0,Bangladesh,18.0
+7934,35.0,5.0,22.0,Fem,False,3.0,Uzbekistan,22.0
+7407,43.0,5.0,44.0,Fem,False,3.0,Morocco,26.0
+2406,44.0,6.0,42.0,Fem,False,3.0,Vietnam,46.0
+1142,47.0,6.0,44.0,Masc,False,4.0,Pakistan,91.0
+1747,31.0,5.0,22.0,Fem,True,2.0,Russia,62.0
+5709,33.0,5.0,22.0,Masc,False,4.0,Tanzania,92.0
+4975,45.0,7.0,22.0,Fem,False,7.0,South Korea,154.0
+7300,38.0,6.0,22.0,Masc,False,7.0,Iraq,93.0
+8148,29.0,5.0,57.0,Fem,False,5.0,Malaysia,217.0
+2833,43.0,6.0,22.0,Fem,True,0.0,Egypt,39.0
+3131,29.0,4.0,57.0,Masc,True,4.0,Germany,97.0
+1310,48.0,6.0,57.0,Fem,True,2.0,Nigeria,20.0
+8650,39.0,5.0,44.0,Masc,False,5.0,Nepal,141.0
+6774,26.0,4.0,42.0,Fem,False,6.0,Sudan,70.0
+6756,21.0,8.0,15.5,Masc,False,5.0,Sudan,78.0
+620,49.0,5.0,28.0,Fem,False,6.0,Indonesia,94.0
+2701,29.0,9.0,57.0,Masc,False,2.0,Ethiopia,101.0
+2199,44.0,6.0,28.0,Fem,False,10.0,Mexico,200.0
+6196,30.0,4.0,57.0,Fem,True,10.0,Argentina,186.0
+8824,33.0,8.0,22.0,Fem,False,6.0,Afghanistan,255.0
+1046,57.0,3.0,15.5,Fem,False,5.0,Pakistan,26.0
+5768,41.0,5.0,28.0,Fem,False,6.0,Tanzania,124.0
+9947,30.0,6.0,44.0,Masc,False,6.0,Taiwan,237.0
+9019,34.0,7.0,22.0,Fem,False,3.0,Yemen,19.0
+743,37.0,5.0,44.0,Fem,False,1.0,Indonesia,24.0
+222,48.0,5.0,57.0,Masc,False,2.0,India,58.0
+3149,35.0,6.0,10.0,Masc,False,4.0,Germany,99.0
+625,38.0,4.0,28.0,Fem,False,4.0,Indonesia,141.0
+9334,37.0,6.0,10.0,Masc,False,3.0,Ghana,24.0
+7566,24.0,7.0,28.0,Fem,False,6.0,Morocco,94.0
+4582,49.0,7.0,42.0,Fem,True,2.0,Burma,66.0
+5711,35.0,2.0,22.0,Fem,True,4.0,Tanzania,65.0
+3284,44.0,5.0,57.0,Fem,True,6.0,Iran,256.0
+7585,32.0,6.0,44.0,Fem,False,6.0,Morocco,100.0
+9646,36.0,5.0,42.0,Fem,False,10.0,Australia,202.0
+1530,31.0,11.0,28.0,Fem,False,3.0,Bangladesh,34.0
+9685,41.0,3.0,42.0,Fem,False,1.0,Australia,44.0
+353,40.0,6.0,42.0,Fem,True,10.0,India,168.0
+2474,27.0,6.0,28.0,Fem,False,10.0,Vietnam,106.0
+8013,34.0,6.0,57.0,Masc,False,10.0,Malaysia,277.0
+6475,45.0,5.0,57.0,Fem,True,7.0,Poland,263.0
+6449,33.0,6.0,44.0,Fem,False,7.0,Poland,197.0
+239,31.0,6.0,57.0,Masc,False,3.0,India,23.0
+2625,46.0,6.0,28.0,Fem,False,9.0,Ethiopia,97.0
+9786,28.0,3.0,42.0,Fem,False,4.0,Australia,240.0
+7198,33.0,5.0,28.0,Fem,False,10.0,Canada,97.0
+7692,24.0,5.0,44.0,Fem,True,5.0,Peru,231.0
+2997,35.0,5.0,57.0,Fem,False,5.0,Egypt,112.0
+6440,27.0,6.0,22.0,Fem,False,6.0,Poland,152.0
+4562,48.0,3.0,15.5,Masc,True,4.0,Burma,52.0
+8614,43.0,5.0,42.0,Fem,False,3.0,Nepal,70.0
+1479,32.0,7.0,10.0,Fem,False,3.0,Bangladesh,21.0
+1018,41.0,6.0,28.0,Fem,True,4.0,Pakistan,35.0
+3094,49.0,5.0,28.0,Fem,False,4.0,Germany,97.0
+6182,43.0,5.0,22.0,Masc,False,7.0,Argentina,73.0
+4960,28.0,6.0,44.0,Fem,False,2.0,South Korea,120.0
+8492,46.0,9.0,15.5,Fem,False,3.0,Venezuela,21.0
+1103,42.0,5.0,22.0,Fem,False,3.0,Pakistan,18.0
+6081,43.0,5.0,42.0,Fem,True,7.0,Argentina,149.0
+9525,23.0,6.0,42.0,Masc,False,5.0,Mozambique,97.0
+5190,47.0,5.0,15.5,Fem,True,8.0,Colombia,81.0
+4181,34.0,4.0,22.0,Masc,False,5.0,United Kingdom,93.0
+4467,43.0,3.0,22.0,Fem,False,5.0,Burma,91.0
+1626,41.0,4.0,22.0,Fem,False,7.0,Russia,138.0
+6717,35.0,4.0,28.0,Fem,False,3.0,Sudan,37.0
+3798,34.0,1.0,44.0,Masc,True,9.0,Thailand,108.0
+3053,36.0,6.0,42.0,Fem,False,6.0,Germany,285.0
+2867,31.0,1.0,22.0,Masc,False,4.0,Egypt,96.0
+1432,34.0,9.0,44.0,Fem,True,5.0,Bangladesh,106.0
+7983,31.0,6.0,44.0,Fem,True,9.0,Uzbekistan,153.0
+9346,34.0,2.0,42.0,Fem,True,7.0,Ghana,48.0
+9419,51.0,6.0,10.0,Masc,False,7.0,Mozambique,222.0
+4076,41.0,6.0,44.0,Fem,True,6.0,United Kingdom,106.0
+217,33.0,2.0,28.0,Fem,False,10.0,India,211.0
+3555,35.0,7.0,44.0,Fem,False,3.0,Turkey,40.0
+7936,25.0,8.0,28.0,Fem,False,2.0,Uzbekistan,82.0
+8421,31.0,7.0,28.0,Masc,False,9.0,Venezuela,101.0
+1034,39.0,7.0,44.0,Fem,True,4.0,Pakistan,106.0
+3773,29.0,6.0,22.0,Fem,False,3.0,Thailand,41.0
+4132,39.0,5.0,22.0,Fem,False,0.0,United Kingdom,98.0
+2335,37.0,3.0,22.0,Fem,True,4.0,Philippines,64.0
+6492,27.0,5.0,57.0,Fem,True,5.0,Poland,256.0
+1482,46.0,6.0,44.0,Fem,True,2.0,Bangladesh,29.0
+906,46.0,6.0,57.0,Fem,False,6.0,Brazil,92.0
+6088,44.0,6.0,57.0,Fem,False,4.0,Argentina,207.0
+6466,25.0,5.0,28.0,Masc,True,4.0,Poland,288.0
+5676,33.0,4.0,15.5,Fem,False,7.0,Tanzania,87.0
+2770,28.0,5.0,28.0,Fem,False,4.0,Ethiopia,181.0
+1805,29.0,7.0,15.5,Fem,False,3.0,Japan,86.0
+7374,38.0,4.0,44.0,Fem,False,4.0,Iraq,84.0
+2114,25.0,6.0,28.0,Fem,False,6.0,Mexico,109.0
+4534,42.0,7.0,57.0,Masc,True,5.0,Burma,189.0
+2531,33.0,7.0,28.0,Fem,False,10.0,Vietnam,150.0
+8525,24.0,8.0,44.0,Fem,False,0.0,Venezuela,56.0
+3470,34.0,4.0,22.0,Fem,False,8.0,Turkey,90.0
+1402,27.0,6.0,28.0,Fem,True,2.0,Bangladesh,34.0
+852,30.0,6.0,15.5,Fem,False,3.0,Brazil,31.0
+3082,37.0,9.0,15.5,Masc,False,6.0,Germany,153.0
+8024,42.0,7.0,44.0,Masc,True,4.0,Malaysia,226.0
+7565,53.0,11.0,22.0,Fem,False,1.0,Morocco,30.0
+5529,24.0,5.0,28.0,Masc,False,4.0,Ukraine,162.0
+7854,38.0,5.0,28.0,Fem,False,3.0,Uzbekistan,83.0
+4932,34.0,10.0,44.0,Fem,False,3.0,South Korea,117.0
+5159,35.0,4.0,15.5,Masc,False,7.0,Colombia,104.0
+9715,29.0,7.0,44.0,Fem,False,5.0,Australia,97.0
+3846,41.0,6.0,10.0,Fem,False,7.0,France,119.0
+6483,30.0,8.0,44.0,Fem,True,6.0,Poland,231.0
+747,39.0,5.0,22.0,Fem,False,4.0,Indonesia,98.0
+3034,32.0,3.0,28.0,Fem,False,6.0,Germany,308.0
+347,42.0,7.0,44.0,Fem,False,3.0,India,40.0
+3351,32.0,5.0,28.0,Fem,False,3.0,Iran,86.0
+2864,24.0,6.0,28.0,Fem,False,5.0,Egypt,149.0
+2167,36.0,9.0,28.0,Fem,False,6.0,Mexico,308.0
+6954,48.0,7.0,42.0,Fem,False,3.0,Uganda,76.0
+6209,40.0,3.0,44.0,Masc,False,5.0,Algeria,124.0
+2777,31.0,3.0,15.5,Fem,False,9.0,Ethiopia,264.0
+1441,43.0,6.0,22.0,Masc,True,4.0,Bangladesh,44.0
+5657,35.0,5.0,15.5,Fem,False,5.0,Tanzania,35.0
+9657,39.0,7.0,42.0,Fem,False,3.0,Australia,75.0
+3027,26.0,9.0,44.0,Fem,True,7.0,Germany,97.0
+6117,42.0,7.0,28.0,Masc,True,1.0,Argentina,100.0
+2483,34.0,6.0,22.0,Fem,True,4.0,Vietnam,83.0
+2882,24.0,5.0,28.0,Fem,False,1.0,Egypt,37.0
+5561,50.0,6.0,22.0,Masc,True,3.0,Ukraine,50.0
+763,51.0,7.0,57.0,Fem,False,6.0,Indonesia,100.0
+6481,44.0,4.0,28.0,Fem,False,7.0,Poland,294.0
+1616,51.0,6.0,44.0,Fem,True,0.0,Russia,98.0
+1222,41.0,6.0,15.5,Fem,False,4.0,Nigeria,46.0
+8664,25.0,9.0,10.0,Fem,True,5.0,Nepal,100.0
+6221,33.0,6.0,22.0,Fem,False,2.0,Algeria,45.0
+1576,40.0,6.0,44.0,Fem,False,4.0,Bangladesh,83.0
+9391,28.0,9.0,22.0,Fem,False,9.0,Ghana,77.0
+6350,22.0,9.0,15.5,Fem,True,4.0,Algeria,42.0
+3782,37.0,7.0,44.0,Fem,False,3.0,Thailand,86.0
+4374,27.0,5.0,44.0,Masc,False,4.0,Italy,280.0
+708,45.0,7.0,15.5,Fem,False,0.0,Indonesia,27.0
+509,44.0,5.0,15.5,Fem,False,2.0,United States,63.0
+2954,52.0,6.0,44.0,Fem,False,5.0,Egypt,138.0
+7537,37.0,5.0,42.0,Fem,False,5.0,Morocco,31.0
+6338,37.0,11.0,15.5,Fem,True,7.0,Algeria,98.0
+8922,36.0,7.0,57.0,Fem,True,5.0,Afghanistan,282.0
+7063,39.0,5.0,15.5,Fem,False,9.0,Canada,199.0
+7162,28.0,5.0,42.0,Fem,True,6.0,Canada,265.0
+7371,37.0,5.0,28.0,Fem,False,7.0,Iraq,106.0
+6828,41.0,6.0,44.0,Fem,False,2.0,Uganda,70.0
+3615,32.0,6.0,15.5,Masc,False,2.0,Thailand,24.0
+4656,31.0,5.0,10.0,Fem,False,2.0,South Africa,37.0
+6975,32.0,6.0,28.0,Fem,False,5.0,Uganda,282.0
+4350,28.0,6.0,28.0,Masc,True,9.0,Italy,154.0
+711,33.0,5.0,10.0,Fem,False,5.0,Indonesia,17.0
+6478,48.0,6.0,15.5,Masc,False,9.0,Poland,119.0
+9129,38.0,5.0,28.0,Fem,False,6.0,Yemen,136.0
+8204,33.0,2.0,42.0,Masc,False,1.0,Saudi Arabia,62.0
+9203,40.0,7.0,22.0,Fem,False,6.0,Ghana,57.0
+712,53.0,3.0,28.0,Fem,False,4.0,Indonesia,147.0
+9112,43.0,4.0,42.0,Fem,True,5.0,Yemen,102.0
+1245,41.0,5.0,10.0,Fem,False,4.0,Nigeria,45.0
+9785,32.0,7.0,28.0,Fem,False,4.0,Australia,97.0
+6848,37.0,4.0,28.0,Fem,True,3.0,Uganda,104.0
+5133,40.0,7.0,22.0,Masc,False,3.0,Colombia,37.0
+715,25.0,6.0,15.5,Fem,False,7.0,Indonesia,51.0
+3463,28.0,3.0,10.0,Fem,False,5.0,Turkey,99.0
+4394,33.0,7.0,22.0,Fem,False,3.0,Italy,114.0
+4568,36.0,6.0,15.5,Fem,False,5.0,Burma,84.0
+8803,37.0,6.0,22.0,Masc,False,3.0,Afghanistan,56.0
+8489,40.0,7.0,57.0,Fem,False,5.0,Venezuela,105.0
+7701,41.0,9.0,57.0,Fem,True,4.0,Peru,177.0
+212,29.0,8.0,10.0,Fem,True,6.0,India,26.0
+9767,26.0,6.0,28.0,Fem,True,5.0,Australia,258.0
+6838,29.0,6.0,22.0,Fem,False,3.0,Uganda,53.0
+1010,26.0,4.0,28.0,Fem,False,9.0,Pakistan,193.0
+323,43.0,5.0,44.0,Fem,False,2.0,India,34.0
+5396,41.0,4.0,44.0,Fem,False,5.0,Spain,234.0
+5990,36.0,6.0,28.0,Fem,False,7.0,Kenya,232.0
+3172,27.0,4.0,44.0,Masc,False,3.0,Germany,88.0
+334,28.0,4.0,28.0,Masc,True,5.0,India,64.0
+8305,39.0,7.0,42.0,Fem,True,7.0,Saudi Arabia,226.0
+2210,27.0,9.0,15.5,Fem,True,2.0,Philippines,28.0
+4271,36.0,5.0,44.0,Fem,True,5.0,Italy,197.0
+6740,25.0,5.0,10.0,Fem,True,0.0,Sudan,15.0
+233,34.0,6.0,42.0,Fem,True,10.0,India,50.0
+5950,37.0,6.0,22.0,Fem,False,7.0,Kenya,82.0
+5737,36.0,5.0,44.0,Fem,False,5.0,Tanzania,109.0
+7921,31.0,6.0,15.5,Fem,True,6.0,Uzbekistan,38.0
+2348,29.0,8.0,28.0,Fem,False,4.0,Philippines,84.0
+2036,32.0,4.0,42.0,Fem,False,2.0,Mexico,53.0
+7484,36.0,9.0,44.0,Masc,False,5.0,Morocco,111.0
+6006,29.0,5.0,22.0,Fem,False,8.0,Argentina,71.0
+4553,38.0,8.0,22.0,Masc,False,5.0,Burma,101.0
+8072,25.0,10.0,15.5,Fem,False,7.0,Malaysia,128.0
+1458,21.0,5.0,57.0,Fem,False,4.0,Bangladesh,81.0
+3288,29.0,5.0,44.0,Fem,False,3.0,Iran,46.0
+3064,40.0,10.0,57.0,Fem,False,5.0,Germany,301.0
+9436,43.0,6.0,15.5,Fem,True,4.0,Mozambique,273.0
+774,44.0,6.0,22.0,Fem,False,5.0,Indonesia,74.0
+6832,43.0,2.0,44.0,Fem,False,3.0,Uganda,63.0
+871,34.0,6.0,42.0,Masc,False,0.0,Brazil,45.0
+8749,30.0,2.0,28.0,Fem,False,3.0,Nepal,95.0
+1263,32.0,6.0,22.0,Fem,False,4.0,Nigeria,37.0
+4833,38.0,4.0,44.0,Fem,False,1.0,South Korea,87.0
+3894,47.0,5.0,22.0,Fem,True,4.0,France,251.0
+6323,53.0,1.0,42.0,Masc,False,4.0,Algeria,116.0
+9212,34.0,3.0,28.0,Fem,False,4.0,Ghana,186.0
+7019,51.0,3.0,44.0,Masc,True,4.0,Canada,97.0
+1220,36.0,8.0,28.0,Fem,False,8.0,Nigeria,109.0
+1446,44.0,7.0,28.0,Masc,False,4.0,Bangladesh,297.0
+3184,32.0,10.0,57.0,Fem,False,5.0,Germany,269.0
+408,38.0,7.0,44.0,Masc,True,10.0,United States,97.0
+4344,43.0,10.0,44.0,Masc,False,4.0,Italy,185.0
+3021,39.0,4.0,44.0,Fem,True,4.0,Germany,287.0
+2303,39.0,10.0,28.0,Masc,True,8.0,Philippines,145.0
+6271,29.0,6.0,15.5,Fem,False,3.0,Algeria,44.0
+8280,38.0,7.0,57.0,Masc,False,1.0,Saudi Arabia,98.0
+6641,56.0,5.0,15.5,Fem,False,5.0,Sudan,48.0
+6955,61.0,6.0,15.5,Fem,False,4.0,Uganda,189.0
+2109,42.0,8.0,22.0,Fem,True,9.0,Mexico,103.0
+5351,37.0,7.0,15.5,Fem,False,4.0,Spain,190.0
+9683,38.0,5.0,44.0,Fem,False,1.0,Australia,66.0
+8343,23.0,5.0,44.0,Masc,False,1.0,Saudi Arabia,65.0
+4549,39.0,6.0,57.0,Masc,True,5.0,Burma,119.0
+1880,36.0,8.0,28.0,Masc,False,6.0,Japan,200.0
+5945,32.0,6.0,28.0,Fem,False,4.0,Kenya,59.0
+1737,34.0,5.0,10.0,Fem,False,9.0,Russia,61.0
+7793,28.0,7.0,15.5,Fem,False,3.0,Peru,43.0
+5212,42.0,5.0,44.0,Fem,False,4.0,Spain,249.0
+3208,41.0,5.0,28.0,Fem,False,3.0,Iran,45.0
+7082,37.0,5.0,44.0,Fem,True,6.0,Canada,271.0
+2055,36.0,3.0,28.0,Fem,False,5.0,Mexico,158.0
+1688,33.0,3.0,28.0,Fem,False,9.0,Russia,246.0
+4779,50.0,6.0,28.0,Fem,False,2.0,South Africa,101.0
+7475,34.0,5.0,22.0,Fem,False,0.0,Morocco,25.0
+7876,34.0,6.0,28.0,Fem,False,4.0,Uzbekistan,93.0
+6749,31.0,4.0,22.0,Fem,False,7.0,Sudan,48.0
+8555,53.0,4.0,28.0,Fem,True,5.0,Venezuela,137.0
+8122,44.0,2.0,28.0,Fem,False,4.0,Malaysia,246.0
+6990,45.0,7.0,42.0,Fem,False,3.0,Uganda,99.0
+8266,39.0,7.0,28.0,Fem,False,4.0,Saudi Arabia,161.0
+8539,42.0,6.0,28.0,Fem,True,6.0,Venezuela,97.0
+3392,53.0,5.0,42.0,Fem,True,4.0,Iran,110.0
+6325,37.0,7.0,15.5,Masc,False,3.0,Algeria,27.0
+3528,34.0,4.0,22.0,Masc,True,4.0,Turkey,97.0
+4604,38.0,5.0,42.0,Fem,True,5.0,South Africa,140.0
+7023,28.0,5.0,28.0,Fem,False,9.0,Canada,97.0
+6321,40.0,9.0,44.0,Fem,False,0.0,Algeria,74.0
+745,25.0,4.0,28.0,Fem,False,4.0,Indonesia,245.0
+710,36.0,4.0,28.0,Fem,False,4.0,Indonesia,178.0
+379,32.0,4.0,57.0,Fem,False,3.0,India,52.0
+8782,39.0,7.0,10.0,Masc,False,3.0,Nepal,47.0
+3011,29.0,4.0,57.0,Masc,True,4.0,Germany,97.0
+8858,50.0,9.0,22.0,Fem,False,8.0,Afghanistan,326.0
+7152,29.0,5.0,15.5,Fem,False,6.0,Canada,186.0
+8566,26.0,8.0,10.0,Fem,False,1.0,Venezuela,52.0
+3497,30.0,3.0,22.0,Fem,False,5.0,Turkey,127.0
+3889,40.0,5.0,44.0,Masc,True,4.0,France,251.0
+4484,56.0,7.0,44.0,Masc,True,4.0,Burma,125.0
+4011,31.0,4.0,57.0,Fem,False,1.0,United Kingdom,91.0
+2619,36.0,6.0,44.0,Fem,False,7.0,Ethiopia,109.0
+6670,35.0,5.0,42.0,Masc,False,2.0,Sudan,23.0
+6512,23.0,5.0,28.0,Masc,True,4.0,Poland,97.0
+3467,29.0,5.0,44.0,Fem,False,2.0,Turkey,90.0
+1313,43.0,11.0,28.0,Masc,False,8.0,Nigeria,143.0
+8605,43.0,7.0,42.0,Fem,False,5.0,Nepal,216.0
+2069,38.0,8.0,28.0,Masc,True,9.0,Mexico,97.0
+2982,22.0,11.0,15.5,Masc,True,5.0,Egypt,115.0
+5914,29.0,2.0,44.0,Fem,False,4.0,Kenya,108.0
+9170,26.0,6.0,10.0,Fem,True,6.0,Yemen,55.0
+1285,29.0,5.0,10.0,Fem,False,4.0,Nigeria,42.0
+8990,27.0,4.0,22.0,Masc,False,5.0,Afghanistan,326.0
+8429,42.0,8.0,57.0,Fem,False,2.0,Venezuela,77.0
+1349,44.0,4.0,22.0,Fem,True,5.0,Nigeria,70.0
+2611,29.0,5.0,57.0,Masc,False,2.0,Ethiopia,141.0
+9494,39.0,7.0,42.0,Masc,False,7.0,Mozambique,317.0
+3668,38.0,6.0,15.5,Fem,True,3.0,Thailand,41.0
+2221,35.0,4.0,22.0,Fem,True,4.0,Philippines,43.0
+427,60.0,6.0,42.0,Masc,False,7.0,United States,230.0
+653,52.0,7.0,42.0,Fem,False,2.0,Indonesia,33.0
+9913,35.0,7.0,44.0,Masc,False,4.0,Taiwan,255.0
+3535,40.0,9.0,15.5,Fem,True,3.0,Turkey,74.0
+7736,41.0,7.0,44.0,Fem,False,4.0,Peru,133.0
+3245,34.0,4.0,28.0,Masc,True,5.0,Iran,97.0
+4740,39.0,9.0,44.0,Masc,False,0.0,South Africa,59.0
+9068,38.0,7.0,28.0,Fem,True,4.0,Yemen,111.0
+4099,49.0,5.0,28.0,Fem,False,0.0,United Kingdom,191.0
+4100,38.0,9.0,22.0,Fem,False,5.0,United Kingdom,168.0
+6959,43.0,7.0,22.0,Fem,True,3.0,Uganda,79.0
+611,51.0,7.0,15.5,Fem,False,9.0,Indonesia,46.0
+4288,44.0,5.0,28.0,Fem,False,0.0,Italy,96.0
+8570,34.0,5.0,28.0,Fem,False,1.0,Venezuela,58.0
+9712,41.0,5.0,28.0,Fem,False,3.0,Australia,81.0
+1543,31.0,4.0,28.0,Masc,False,3.0,Bangladesh,36.0
+9535,51.0,8.0,28.0,Fem,False,3.0,Mozambique,111.0
+3853,43.0,3.0,28.0,Fem,True,3.0,France,159.0
+554,34.0,5.0,44.0,Fem,False,6.0,United States,201.0
+6365,41.0,7.0,15.5,Fem,False,3.0,Algeria,26.0
+511,41.0,7.0,44.0,Fem,True,2.0,United States,61.0
+3206,33.0,10.0,15.5,Fem,True,5.0,Iran,105.0
+8084,35.0,5.0,44.0,Masc,True,3.0,Malaysia,83.0
+967,40.0,6.0,22.0,Fem,False,4.0,Brazil,94.0
+6043,27.0,6.0,44.0,Masc,False,4.0,Argentina,167.0
+6879,47.0,7.0,28.0,Fem,True,3.0,Uganda,158.0
+6775,41.0,6.0,44.0,Fem,False,1.0,Sudan,34.0
+3295,51.0,9.0,15.5,Fem,False,5.0,Iran,108.0
+8701,46.0,7.0,28.0,Masc,False,4.0,Nepal,193.0
+3429,28.0,5.0,44.0,Masc,False,3.0,Turkey,66.0
+8870,43.0,4.0,22.0,Masc,False,5.0,Afghanistan,226.0
+6962,33.0,3.0,22.0,Fem,True,2.0,Uganda,58.0
+2088,36.0,7.0,15.5,Masc,False,4.0,Mexico,110.0
+8499,22.0,6.0,22.0,Fem,True,6.0,Venezuela,129.0
+6162,20.0,6.0,15.5,Masc,False,4.0,Argentina,19.0
+3210,43.0,5.0,44.0,Fem,False,7.0,Iran,169.0
+9200,39.0,6.0,15.5,Masc,False,10.0,Ghana,74.0
+6605,33.0,4.0,42.0,Fem,False,7.0,Sudan,106.0
+1109,29.0,7.0,22.0,Fem,False,9.0,Pakistan,76.0
+5728,42.0,5.0,22.0,Masc,False,6.0,Tanzania,128.0
+7829,46.0,10.0,22.0,Fem,True,3.0,Uzbekistan,32.0
+1038,39.0,5.0,10.0,Fem,False,4.0,Pakistan,39.0
+1194,34.0,7.0,22.0,Fem,True,4.0,Pakistan,75.0
+4474,38.0,1.0,57.0,Masc,False,2.0,Burma,59.0
+9874,28.0,7.0,22.0,Fem,False,7.0,Taiwan,290.0
+2122,32.0,6.0,44.0,Fem,False,6.0,Mexico,187.0
+4982,34.0,4.0,10.0,Fem,False,3.0,South Korea,56.0
+8973,28.0,5.0,22.0,Masc,False,1.0,Afghanistan,198.0
+5700,28.0,8.0,28.0,Masc,True,2.0,Tanzania,112.0
+934,29.0,6.0,42.0,Fem,False,3.0,Brazil,57.0
+6101,26.0,9.0,28.0,Masc,True,6.0,Argentina,252.0
+4689,30.0,10.0,15.5,Fem,False,5.0,South Africa,61.0
+394,39.0,3.0,28.0,Masc,False,7.0,India,130.0
+4685,52.0,7.0,15.5,Fem,False,2.0,South Africa,37.0
+8776,33.0,6.0,28.0,Fem,False,2.0,Nepal,125.0
+9165,30.0,5.0,28.0,Fem,True,4.0,Yemen,104.0
+5980,33.0,7.0,57.0,Fem,False,6.0,Kenya,135.0
+9942,36.0,9.0,44.0,Masc,False,5.0,Taiwan,196.0
+2191,34.0,6.0,15.5,Fem,False,4.0,Mexico,103.0
+1297,51.0,6.0,22.0,Masc,False,6.0,Nigeria,33.0
+5044,30.0,5.0,44.0,Masc,False,4.0,Colombia,117.0
+1162,48.0,7.0,44.0,Fem,True,5.0,Pakistan,99.0
+4254,35.0,5.0,44.0,Masc,False,4.0,Italy,265.0
+6372,25.0,3.0,15.5,Masc,False,3.0,Algeria,38.0
+1527,44.0,3.0,28.0,Fem,False,9.0,Bangladesh,196.0
+4342,26.0,7.0,42.0,Fem,True,3.0,Italy,173.0
+2030,52.0,3.0,22.0,Masc,False,4.0,Mexico,113.0
+3060,27.0,2.0,44.0,Fem,True,1.0,Germany,127.0
+58,53.0,5.0,42.0,Fem,True,6.0,China,76.0
+2405,51.0,6.0,42.0,Masc,False,6.0,Vietnam,106.0
+5006,32.0,5.0,28.0,Fem,False,4.0,Colombia,257.0
+6157,37.0,7.0,28.0,Fem,True,1.0,Argentina,104.0
+7375,41.0,5.0,57.0,Fem,False,1.0,Iraq,79.0
+4506,33.0,9.0,22.0,Fem,False,1.0,Burma,34.0
+5214,50.0,4.0,44.0,Masc,False,3.0,Spain,122.0
+6029,40.0,1.0,10.0,Fem,False,4.0,Argentina,135.0
+1780,34.0,7.0,22.0,Masc,False,6.0,Russia,118.0
+5447,32.0,5.0,44.0,Fem,False,3.0,Ukraine,77.0
+4606,43.0,5.0,28.0,Fem,False,9.0,South Africa,101.0
+6914,29.0,7.0,28.0,Fem,False,3.0,Uganda,86.0
+676,34.0,5.0,57.0,Fem,False,6.0,Indonesia,147.0
+3582,25.0,10.0,42.0,Masc,True,4.0,Turkey,212.0
+3653,31.0,6.0,22.0,Fem,False,3.0,Thailand,32.0
+7920,39.0,5.0,22.0,Fem,True,6.0,Uzbekistan,83.0
+9499,52.0,6.0,44.0,Fem,False,7.0,Mozambique,227.0
+2732,27.0,5.0,42.0,Fem,True,7.0,Ethiopia,272.0
+4787,41.0,6.0,44.0,Fem,False,4.0,South Africa,104.0
+2754,46.0,8.0,15.5,Fem,False,3.0,Ethiopia,73.0
+2337,40.0,8.0,28.0,Masc,False,3.0,Philippines,76.0
+3643,52.0,4.0,44.0,Masc,True,1.0,Thailand,83.0
+7737,51.0,4.0,44.0,Fem,False,4.0,Peru,149.0
+5516,38.0,5.0,44.0,Fem,True,5.0,Ukraine,145.0
+5246,25.0,3.0,42.0,Fem,True,4.0,Spain,232.0
+866,36.0,6.0,15.5,Fem,False,6.0,Brazil,79.0
+4447,46.0,9.0,15.5,Fem,False,3.0,Burma,53.0
+5071,26.0,10.0,22.0,Fem,False,2.0,Colombia,39.0
+4881,43.0,5.0,22.0,Fem,False,8.0,South Korea,177.0
+9510,30.0,6.0,15.5,Masc,False,7.0,Mozambique,189.0
+3002,22.0,9.0,22.0,Fem,False,6.0,Germany,228.0
+2225,44.0,6.0,22.0,Fem,False,5.0,Philippines,92.0
+9056,45.0,5.0,28.0,Fem,True,7.0,Yemen,171.0
+4826,39.0,5.0,15.5,Fem,True,5.0,South Korea,259.0
+7621,37.0,9.0,15.5,Masc,True,4.0,Peru,81.0
+9689,36.0,9.0,28.0,Fem,False,5.0,Australia,318.0
+5500,24.0,2.0,44.0,Fem,False,10.0,Ukraine,158.0
+9700,29.0,6.0,15.5,Masc,False,10.0,Australia,203.0
+8478,28.0,6.0,44.0,Fem,True,3.0,Venezuela,43.0
+5502,40.0,6.0,10.0,Masc,False,6.0,Ukraine,79.0
+1210,31.0,3.0,44.0,Fem,True,3.0,Nigeria,26.0
+9083,21.0,8.0,22.0,Fem,False,3.0,Yemen,22.0
+2288,49.0,7.0,28.0,Fem,False,4.0,Philippines,74.0
+2183,47.0,5.0,42.0,Masc,False,4.0,Mexico,154.0
+2862,35.0,11.0,15.5,Masc,True,5.0,Egypt,64.0
+6861,33.0,4.0,22.0,Masc,False,3.0,Uganda,79.0
+2362,19.0,4.0,22.0,Masc,True,4.0,Philippines,90.0
+8463,34.0,6.0,44.0,Fem,False,7.0,Venezuela,123.0
+6332,30.0,3.0,15.5,Fem,False,3.0,Algeria,28.0
+4064,29.0,4.0,15.5,Fem,True,10.0,United Kingdom,236.0
+9546,38.0,7.0,44.0,Fem,False,8.0,Mozambique,280.0
+617,36.0,2.0,57.0,Fem,True,2.0,Indonesia,53.0
+3281,45.0,6.0,22.0,Fem,False,3.0,Iran,47.0
+5226,49.0,4.0,10.0,Fem,False,2.0,Spain,87.0
+3397,36.0,4.0,10.0,Fem,False,3.0,Iran,49.0
+3065,27.0,5.0,44.0,Masc,False,7.0,Germany,281.0
+766,26.0,7.0,42.0,Fem,True,6.0,Indonesia,98.0
+7078,37.0,5.0,28.0,Fem,False,10.0,Canada,97.0
+5279,39.0,3.0,44.0,Fem,False,1.0,Spain,71.0
+4149,27.0,4.0,22.0,Masc,False,7.0,United Kingdom,228.0
+1144,24.0,1.0,22.0,Masc,False,3.0,Pakistan,22.0
+4248,41.0,5.0,28.0,Masc,False,0.0,Italy,137.0
+4110,52.0,5.0,10.0,Fem,False,6.0,United Kingdom,211.0
+462,42.0,4.0,10.0,Fem,False,6.0,United States,136.0
+2932,28.0,7.0,28.0,Fem,False,2.0,Egypt,91.0
+4623,39.0,7.0,22.0,Masc,False,1.0,South Africa,52.0
+3813,34.0,3.0,15.5,Fem,True,3.0,France,92.0
+6308,34.0,2.0,15.5,Fem,True,4.0,Algeria,99.0
+4341,37.0,7.0,42.0,Fem,False,4.0,Italy,247.0
+5300,38.0,5.0,44.0,Masc,True,9.0,Spain,258.0
+6804,39.0,4.0,22.0,Fem,False,3.0,Uganda,56.0
+3282,28.0,5.0,44.0,Fem,True,7.0,Iran,200.0
+2574,29.0,5.0,28.0,Fem,False,2.0,Vietnam,110.0
+7961,33.0,6.0,44.0,Fem,True,6.0,Uzbekistan,9.0
+7879,32.0,5.0,28.0,Masc,False,5.0,Uzbekistan,94.0
+828,39.0,6.0,15.5,Fem,True,3.0,Brazil,36.0
+6486,27.0,7.0,28.0,Fem,True,4.0,Poland,198.0
+7599,40.0,3.0,28.0,Fem,False,7.0,Morocco,299.0
+2540,42.0,2.0,28.0,Fem,False,3.0,Vietnam,48.0
+5746,28.0,6.0,44.0,Fem,False,6.0,Tanzania,120.0
+8526,34.0,8.0,10.0,Fem,False,1.0,Venezuela,48.0
+9566,41.0,4.0,42.0,Fem,True,6.0,Mozambique,160.0
+3742,51.0,7.0,44.0,Fem,False,3.0,Thailand,43.0
+7498,41.0,7.0,15.5,Fem,True,0.0,Morocco,35.0
+3524,44.0,8.0,22.0,Masc,False,3.0,Turkey,114.0
+20,37.0,8.0,28.0,Masc,False,7.0,China,235.0
+1915,23.0,10.0,44.0,Masc,False,6.0,Japan,152.0
+6571,41.0,6.0,22.0,Fem,False,4.0,Poland,166.0
+9018,45.0,4.0,10.0,Fem,False,3.0,Yemen,22.0
+2012,26.0,6.0,22.0,Fem,False,4.0,Mexico,120.0
+5405,39.0,4.0,22.0,Fem,True,3.0,Ukraine,52.0
+1295,42.0,6.0,44.0,Fem,False,7.0,Nigeria,92.0
+3745,41.0,7.0,44.0,Fem,False,6.0,Thailand,143.0
+591,50.0,7.0,57.0,Fem,True,2.0,United States,100.0
+1406,51.0,7.0,15.5,Fem,False,4.0,Bangladesh,81.0
+221,32.0,6.0,28.0,Masc,False,2.0,India,74.0
+5617,37.0,5.0,44.0,Fem,False,5.0,Tanzania,142.0
+6248,54.0,4.0,15.5,Fem,False,5.0,Algeria,67.0
+4418,36.0,5.0,28.0,Fem,False,2.0,Burma,91.0
+858,37.0,5.0,44.0,Fem,False,5.0,Brazil,164.0
+1783,32.0,5.0,44.0,Fem,False,5.0,Russia,212.0
+7259,47.0,5.0,42.0,Masc,True,2.0,Iraq,47.0
+6856,33.0,10.0,15.5,Masc,True,9.0,Uganda,63.0
+1954,44.0,3.0,44.0,Fem,True,2.0,Japan,106.0
+1746,48.0,4.0,22.0,Fem,False,7.0,Russia,98.0
+3132,50.0,4.0,22.0,Fem,False,3.0,Germany,39.0
+8036,40.0,7.0,57.0,Masc,True,4.0,Malaysia,209.0
+8850,26.0,7.0,44.0,Masc,False,3.0,Afghanistan,100.0
+994,37.0,5.0,42.0,Fem,True,8.0,Brazil,236.0
+6108,41.0,5.0,57.0,Fem,False,4.0,Argentina,118.0
+730,27.0,6.0,22.0,Masc,False,8.0,Indonesia,81.0
+6974,31.0,9.0,28.0,Fem,True,3.0,Uganda,99.0
+6273,40.0,3.0,57.0,Masc,False,4.0,Algeria,123.0
+6751,39.0,6.0,22.0,Fem,True,4.0,Sudan,34.0
+3509,44.0,5.0,28.0,Masc,False,3.0,Turkey,98.0
+3533,40.0,5.0,44.0,Fem,True,4.0,Turkey,150.0
+2513,37.0,3.0,42.0,Fem,False,2.0,Vietnam,63.0
+5436,20.0,5.0,22.0,Fem,True,5.0,Ukraine,114.0
+3625,47.0,7.0,44.0,Fem,False,6.0,Thailand,129.0
+465,29.0,5.0,15.5,Fem,False,7.0,United States,255.0
+6755,40.0,5.0,22.0,Fem,False,4.0,Sudan,63.0
+6759,40.0,6.0,15.5,Fem,True,3.0,Sudan,1.0
+7991,47.0,3.0,42.0,Fem,True,5.0,Uzbekistan,89.0
+157,36.0,4.0,15.5,Masc,False,7.0,China,60.0
+3960,30.0,1.0,44.0,Fem,False,4.0,France,123.0
+8832,39.0,2.0,44.0,Fem,False,10.0,Afghanistan,169.0
+5470,41.0,8.0,44.0,Fem,False,2.0,Ukraine,50.0
+185,37.0,5.0,44.0,Fem,False,5.0,China,157.0
+1002,18.0,7.0,15.5,Fem,True,5.0,Pakistan,26.0
+9508,47.0,5.0,28.0,Fem,False,8.0,Mozambique,97.0
+5623,36.0,6.0,42.0,Masc,True,3.0,Tanzania,50.0
+400,36.0,5.0,44.0,Fem,False,10.0,United States,194.0
+6240,22.0,5.0,22.0,Fem,False,6.0,Algeria,119.0
+8940,36.0,4.0,10.0,Masc,False,5.0,Afghanistan,270.0
+9932,27.0,6.0,44.0,Fem,False,6.0,Taiwan,260.0
+7342,45.0,8.0,57.0,Fem,True,6.0,Iraq,115.0
+9832,37.0,1.0,22.0,Masc,True,6.0,Taiwan,191.0
+8466,41.0,5.0,10.0,Fem,True,6.0,Venezuela,119.0
+8756,46.0,5.0,44.0,Fem,True,6.0,Nepal,196.0
+7958,47.0,5.0,22.0,Fem,False,2.0,Uzbekistan,29.0
+1250,41.0,3.0,57.0,Fem,True,3.0,Nigeria,56.0
+3143,34.0,8.0,42.0,Fem,False,10.0,Germany,223.0
+7430,38.0,4.0,22.0,Fem,True,3.0,Morocco,41.0
+59,41.0,6.0,44.0,Fem,False,3.0,China,65.0
+7855,38.0,4.0,28.0,Fem,False,3.0,Uzbekistan,64.0
+1113,40.0,2.0,28.0,Fem,True,6.0,Pakistan,171.0
+3057,39.0,5.0,28.0,Fem,False,5.0,Germany,313.0
+9569,34.0,9.0,44.0,Masc,False,2.0,Mozambique,105.0
+1328,27.0,6.0,57.0,Fem,True,5.0,Nigeria,20.0
+4995,36.0,7.0,28.0,Fem,False,10.0,South Korea,183.0
+6682,41.0,6.0,22.0,Fem,False,7.0,Sudan,36.0
+2072,36.0,5.0,22.0,Fem,False,5.0,Mexico,197.0
+4793,51.0,5.0,28.0,Fem,False,4.0,South Africa,97.0
+6829,47.0,8.0,15.5,Fem,False,6.0,Uganda,131.0
+9629,33.0,3.0,28.0,Fem,True,1.0,Australia,185.0
+8218,55.0,6.0,15.5,Masc,False,4.0,Saudi Arabia,278.0
+7567,43.0,5.0,42.0,Fem,False,3.0,Morocco,47.0
+5922,30.0,6.0,28.0,Fem,True,6.0,Kenya,130.0
+1550,25.0,6.0,57.0,Fem,False,2.0,Bangladesh,47.0
+1009,58.0,6.0,22.0,Fem,False,2.0,Pakistan,28.0
+3755,44.0,6.0,28.0,Fem,False,2.0,Thailand,39.0
+8681,26.0,6.0,28.0,Masc,False,3.0,Nepal,113.0
+9342,33.0,7.0,22.0,Fem,True,2.0,Ghana,23.0
+8009,40.0,5.0,15.5,Fem,False,0.0,Malaysia,43.0
+3860,50.0,5.0,15.5,Fem,True,0.0,France,87.0
+3148,24.0,6.0,22.0,Fem,False,9.0,Germany,217.0
+2519,51.0,6.0,28.0,Fem,False,5.0,Vietnam,192.0
+3127,36.0,4.0,42.0,Fem,False,4.0,Germany,278.0
+9084,42.0,2.0,28.0,Fem,False,5.0,Yemen,58.0
+5316,53.0,4.0,44.0,Fem,False,5.0,Spain,118.0
+1195,32.0,4.0,15.5,Fem,False,4.0,Pakistan,50.0
+9050,51.0,6.0,10.0,Fem,True,6.0,Yemen,50.0
+879,30.0,4.0,44.0,Fem,True,4.0,Brazil,199.0
+6989,39.0,8.0,57.0,Fem,False,6.0,Uganda,194.0
+2487,33.0,6.0,57.0,Masc,True,2.0,Vietnam,64.0
+2840,38.0,5.0,15.5,Masc,True,1.0,Egypt,53.0
+4329,21.0,7.0,28.0,Masc,False,0.0,Italy,68.0
+2930,53.0,10.0,57.0,Masc,False,1.0,Egypt,59.0
+6424,45.0,6.0,10.0,Fem,True,9.0,Poland,126.0
+2485,46.0,6.0,44.0,Fem,False,6.0,Vietnam,58.0
+5747,51.0,8.0,44.0,Fem,False,7.0,Tanzania,130.0
+883,35.0,7.0,42.0,Masc,True,2.0,Brazil,75.0
+4914,33.0,2.0,42.0,Fem,False,8.0,South Korea,168.0
+6210,29.0,10.0,10.0,Fem,False,2.0,Algeria,29.0
+9578,26.0,5.0,22.0,Fem,False,4.0,Mozambique,167.0
+211,26.0,4.0,22.0,Fem,True,2.0,India,22.0
+2275,36.0,8.0,22.0,Fem,True,0.0,Philippines,38.0
+2328,39.0,7.0,44.0,Fem,False,4.0,Philippines,88.0
+4950,32.0,6.0,42.0,Masc,False,4.0,South Korea,243.0
+3319,42.0,4.0,44.0,Fem,False,2.0,Iran,70.0
+9834,50.0,7.0,22.0,Fem,False,7.0,Taiwan,99.0
+4607,37.0,4.0,44.0,Fem,True,5.0,South Africa,136.0
+1438,31.0,9.0,15.5,Fem,False,10.0,Bangladesh,44.0
+467,31.0,6.0,42.0,Masc,False,7.0,United States,274.0
+5466,32.0,6.0,28.0,Fem,False,4.0,Ukraine,243.0
+3329,39.0,6.0,42.0,Masc,False,8.0,Iran,167.0
+5828,30.0,5.0,44.0,Masc,False,3.0,Kenya,40.0
+8607,40.0,6.0,10.0,Fem,True,4.0,Nepal,112.0
+696,45.0,3.0,22.0,Fem,False,4.0,Indonesia,86.0
+7267,39.0,3.0,57.0,Masc,False,2.0,Iraq,54.0
+9144,37.0,5.0,28.0,Fem,False,7.0,Yemen,17.0
+8180,44.0,5.0,15.5,Fem,False,5.0,Malaysia,120.0
+9938,26.0,5.0,42.0,Fem,True,4.0,Taiwan,97.0
+1314,45.0,3.0,10.0,Masc,False,3.0,Nigeria,15.0
+2301,32.0,4.0,10.0,Fem,True,4.0,Philippines,49.0
+2039,23.0,6.0,44.0,Masc,False,10.0,Mexico,104.0
+7108,37.0,6.0,57.0,Fem,False,3.0,Canada,118.0
+3666,30.0,8.0,57.0,Fem,False,4.0,Thailand,117.0
+914,41.0,5.0,22.0,Fem,True,8.0,Brazil,122.0
+12,39.0,5.0,57.0,Fem,True,4.0,China,165.0
+8583,45.0,6.0,44.0,Fem,False,7.0,Venezuela,198.0
+6427,29.0,5.0,42.0,Fem,False,0.0,Poland,77.0
+1536,26.0,6.0,42.0,Masc,False,4.0,Bangladesh,159.0
+736,36.0,3.0,57.0,Fem,False,4.0,Indonesia,47.0
+8201,28.0,4.0,22.0,Masc,True,4.0,Saudi Arabia,87.0
+8652,38.0,7.0,57.0,Fem,True,9.0,Nepal,134.0
+453,26.0,4.0,57.0,Fem,False,3.0,United States,111.0
+4345,22.0,7.0,28.0,Masc,True,2.0,Italy,171.0
+927,28.0,6.0,42.0,Fem,False,4.0,Brazil,119.0
+6291,39.0,10.0,44.0,Fem,False,7.0,Algeria,67.0
+8281,27.0,4.0,44.0,Fem,True,4.0,Saudi Arabia,321.0
+8722,31.0,9.0,10.0,Masc,False,6.0,Nepal,123.0
+6473,41.0,4.0,15.5,Fem,False,5.0,Poland,71.0
+37,57.0,4.0,15.5,Masc,False,7.0,China,80.0
+5770,45.0,6.0,15.5,Fem,False,4.0,Tanzania,98.0
+2554,50.0,6.0,57.0,Fem,False,10.0,Vietnam,81.0
+7632,38.0,7.0,44.0,Fem,False,3.0,Peru,67.0
+9998,42.0,7.0,42.0,Fem,False,2.0,Taiwan,70.0
+6620,44.0,5.0,10.0,Fem,True,0.0,Sudan,14.0
+940,44.0,7.0,22.0,Fem,False,8.0,Brazil,130.0
+7398,42.0,4.0,44.0,Masc,True,4.0,Iraq,113.0
+6128,37.0,6.0,57.0,Fem,False,4.0,Argentina,41.0
+9829,33.0,5.0,15.5,Masc,False,6.0,Taiwan,218.0
+2680,35.0,6.0,22.0,Fem,True,2.0,Ethiopia,114.0
+4354,37.0,7.0,57.0,Fem,False,3.0,Italy,92.0
+3058,29.0,5.0,28.0,Fem,False,6.0,Germany,257.0
+7880,42.0,5.0,44.0,Fem,True,6.0,Uzbekistan,45.0
+738,42.0,4.0,10.0,Fem,True,9.0,Indonesia,52.0
+538,37.0,4.0,28.0,Fem,False,10.0,United States,148.0
+3325,34.0,4.0,57.0,Fem,True,5.0,Iran,191.0
+4239,38.0,5.0,42.0,Masc,False,1.0,Italy,122.0
+1400,23.0,6.0,44.0,Fem,False,2.0,Bangladesh,49.0
+4046,26.0,9.0,42.0,Fem,False,0.0,United Kingdom,68.0
+5137,42.0,1.0,28.0,Fem,False,6.0,Colombia,142.0
+4229,32.0,6.0,44.0,Masc,True,1.0,Italy,138.0
+4191,21.0,7.0,57.0,Fem,False,5.0,United Kingdom,246.0
+9142,34.0,6.0,42.0,Fem,False,4.0,Yemen,96.0
+5538,39.0,6.0,28.0,Fem,True,2.0,Ukraine,37.0
+2692,41.0,5.0,44.0,Fem,True,7.0,Ethiopia,196.0
+5340,26.0,5.0,57.0,Masc,True,9.0,Spain,97.0
+9917,39.0,8.0,28.0,Masc,True,3.0,Taiwan,144.0
+7670,31.0,5.0,15.5,Masc,False,5.0,Peru,87.0
+9173,40.0,6.0,28.0,Fem,False,0.0,Yemen,96.0
+1807,30.0,6.0,44.0,Fem,False,9.0,Japan,203.0
+5111,50.0,10.0,28.0,Fem,False,2.0,Colombia,74.0
+3989,46.0,4.0,10.0,Masc,True,4.0,France,255.0
+3455,35.0,9.0,15.5,Masc,True,3.0,Turkey,43.0
+2907,47.0,1.0,22.0,Fem,False,4.0,Egypt,92.0
+6651,52.0,5.0,22.0,Fem,False,4.0,Sudan,24.0
+8287,31.0,6.0,22.0,Fem,True,3.0,Saudi Arabia,68.0
+6244,28.0,2.0,44.0,Fem,True,3.0,Algeria,36.0
+2697,37.0,3.0,15.5,Fem,False,9.0,Ethiopia,178.0
+4016,31.0,1.0,44.0,Fem,False,7.0,United Kingdom,103.0
+4339,35.0,6.0,44.0,Fem,False,2.0,Italy,44.0
+4645,41.0,7.0,22.0,Fem,False,2.0,South Africa,54.0
+7739,40.0,6.0,28.0,Fem,False,6.0,Peru,74.0
+7091,49.0,11.0,42.0,Masc,False,4.0,Canada,288.0
+4692,25.0,6.0,28.0,Masc,True,5.0,South Africa,214.0
+1739,36.0,7.0,28.0,Fem,True,10.0,Russia,130.0
+5406,38.0,7.0,28.0,Fem,True,5.0,Ukraine,185.0
+4588,29.0,6.0,15.5,Fem,False,10.0,Burma,103.0
+3125,45.0,10.0,44.0,Masc,False,5.0,Germany,186.0
+2157,44.0,7.0,57.0,Fem,False,1.0,Mexico,70.0
+5333,33.0,6.0,28.0,Fem,False,4.0,Spain,150.0
+8636,41.0,5.0,44.0,Fem,True,6.0,Nepal,99.0
+1825,38.0,6.0,22.0,Masc,True,3.0,Japan,71.0
+4230,37.0,6.0,28.0,Masc,True,9.0,Italy,232.0
+3487,43.0,6.0,15.5,Fem,False,6.0,Turkey,80.0
+9053,31.0,6.0,28.0,Fem,False,0.0,Yemen,67.0
+9768,37.0,5.0,57.0,Fem,False,5.0,Australia,171.0
+3647,19.0,6.0,44.0,Fem,False,4.0,Thailand,77.0
+5902,30.0,2.0,10.0,Masc,True,5.0,Kenya,78.0
+6385,27.0,7.0,15.5,Masc,False,10.0,Algeria,53.0
+5638,34.0,4.0,44.0,Masc,False,4.0,Tanzania,86.0
+6423,53.0,5.0,44.0,Fem,False,5.0,Poland,243.0
+7826,36.0,5.0,22.0,Masc,False,1.0,Uzbekistan,16.0
+7743,34.0,8.0,22.0,Fem,False,3.0,Peru,19.0
+3012,32.0,4.0,22.0,Fem,False,3.0,Germany,70.0
+7671,32.0,3.0,28.0,Fem,True,5.0,Peru,97.0
+9548,33.0,5.0,22.0,Fem,False,8.0,Mozambique,269.0
+9977,33.0,6.0,28.0,Masc,False,3.0,Taiwan,178.0
+3080,28.0,6.0,44.0,Masc,True,6.0,Germany,97.0
+3520,41.0,5.0,22.0,Fem,False,2.0,Turkey,54.0
+4978,25.0,9.0,22.0,Masc,False,7.0,South Korea,204.0
+7619,48.0,6.0,28.0,Fem,False,6.0,Peru,145.0
+4347,42.0,5.0,15.5,Masc,True,7.0,Italy,233.0
+8440,46.0,9.0,44.0,Masc,False,5.0,Venezuela,111.0
+1346,34.0,6.0,44.0,Fem,False,7.0,Nigeria,109.0
+7087,32.0,8.0,22.0,Fem,True,10.0,Canada,102.0
+8947,24.0,8.0,15.5,Fem,False,3.0,Afghanistan,138.0
+5651,32.0,3.0,22.0,Fem,False,1.0,Tanzania,17.0
+8081,35.0,6.0,28.0,Masc,True,2.0,Malaysia,71.0
+1791,49.0,4.0,28.0,Masc,False,1.0,Russia,55.0
+7428,36.0,4.0,22.0,Masc,False,4.0,Morocco,93.0
+9579,31.0,6.0,44.0,Fem,False,7.0,Mozambique,284.0
+9959,47.0,5.0,22.0,Fem,False,2.0,Taiwan,55.0
+2270,45.0,8.0,15.5,Fem,False,2.0,Philippines,25.0
+9766,38.0,5.0,42.0,Fem,False,10.0,Australia,177.0
+2955,31.0,8.0,22.0,Fem,True,9.0,Egypt,34.0
+3443,44.0,3.0,28.0,Fem,True,5.0,Turkey,264.0
+7735,49.0,8.0,22.0,Fem,False,4.0,Peru,71.0
+833,59.0,5.0,44.0,Fem,False,5.0,Brazil,112.0
+6498,24.0,5.0,57.0,Masc,True,2.0,Poland,108.0
+2991,32.0,7.0,28.0,Fem,False,2.0,Egypt,55.0
+7792,38.0,7.0,15.5,Fem,False,3.0,Peru,46.0
+2150,44.0,3.0,22.0,Masc,False,4.0,Mexico,112.0
+4022,44.0,7.0,22.0,Fem,True,7.0,United Kingdom,122.0
+7614,36.0,4.0,10.0,Masc,False,8.0,Peru,120.0
+6123,42.0,6.0,15.5,Masc,False,4.0,Argentina,116.0
+3338,48.0,5.0,22.0,Fem,False,1.0,Iran,51.0
+4343,39.0,5.0,28.0,Fem,False,9.0,Italy,324.0
+4463,45.0,3.0,22.0,Masc,False,8.0,Burma,129.0
+2375,28.0,3.0,28.0,Fem,True,4.0,Philippines,98.0
+9043,22.0,8.0,15.5,Masc,False,3.0,Yemen,15.0
+5570,32.0,9.0,44.0,Fem,True,7.0,Ukraine,91.0
+8598,32.0,6.0,44.0,Fem,True,3.0,Venezuela,45.0
+8503,37.0,6.0,10.0,Masc,False,7.0,Venezuela,60.0
+8879,25.0,8.0,15.5,Fem,True,0.0,Afghanistan,155.0
+1886,51.0,8.0,22.0,Fem,False,4.0,Japan,329.0
+1197,57.0,4.0,10.0,Masc,False,3.0,Pakistan,13.0
+6426,24.0,5.0,28.0,Fem,True,4.0,Poland,216.0
+8910,20.0,4.0,44.0,Masc,False,5.0,Afghanistan,207.0
+2935,35.0,5.0,22.0,Masc,True,4.0,Egypt,61.0
+6341,27.0,6.0,22.0,Fem,False,2.0,Algeria,23.0
+1429,44.0,6.0,15.5,Fem,False,5.0,Bangladesh,43.0
+6306,27.0,4.0,57.0,Fem,True,1.0,Algeria,63.0
+3649,51.0,5.0,28.0,Fem,True,5.0,Thailand,91.0
+1937,32.0,6.0,22.0,Fem,False,6.0,Japan,251.0
+5171,49.0,2.0,28.0,Fem,False,4.0,Colombia,234.0
+7763,33.0,4.0,10.0,Fem,False,9.0,Peru,145.0
+6392,18.0,4.0,15.5,Fem,False,1.0,Algeria,32.0
+1153,26.0,2.0,15.5,Fem,True,6.0,Pakistan,59.0
+6249,34.0,3.0,42.0,Fem,False,5.0,Algeria,91.0
+7036,36.0,8.0,15.5,Fem,False,3.0,Canada,45.0
+4228,37.0,6.0,28.0,Fem,False,1.0,Italy,121.0
+4974,33.0,4.0,42.0,Fem,True,4.0,South Korea,246.0
+6400,40.0,6.0,44.0,Fem,False,6.0,Poland,130.0
+3639,27.0,4.0,22.0,Fem,False,5.0,Thailand,121.0
+3971,31.0,10.0,28.0,Masc,False,5.0,France,303.0
+9593,33.0,1.0,44.0,Fem,False,9.0,Mozambique,97.0
+3375,46.0,9.0,10.0,Fem,False,5.0,Iran,79.0
+2486,26.0,6.0,28.0,Fem,False,3.0,Vietnam,35.0
+6953,29.0,8.0,44.0,Fem,False,10.0,Uganda,181.0
+605,24.0,9.0,42.0,Masc,False,3.0,Indonesia,31.0
+7443,32.0,2.0,10.0,Fem,False,5.0,Morocco,58.0
+5927,37.0,3.0,28.0,Fem,False,2.0,Kenya,124.0
+2453,30.0,9.0,42.0,Fem,False,3.0,Vietnam,40.0
+3608,56.0,7.0,15.5,Fem,True,5.0,Thailand,117.0
+1483,36.0,2.0,28.0,Masc,False,4.0,Bangladesh,129.0
+4518,27.0,3.0,10.0,Masc,True,4.0,Burma,113.0
+3037,41.0,5.0,44.0,Fem,True,10.0,Germany,183.0
+9351,29.0,9.0,44.0,Masc,False,9.0,Ghana,99.0
+7691,38.0,6.0,57.0,Fem,False,9.0,Peru,195.0
+4115,39.0,7.0,42.0,Masc,False,4.0,United Kingdom,146.0
+1426,32.0,5.0,28.0,Fem,True,6.0,Bangladesh,87.0
+496,43.0,4.0,15.5,Masc,False,10.0,United States,172.0
+3352,39.0,5.0,28.0,Masc,True,4.0,Iran,145.0
+8793,29.0,4.0,28.0,Fem,True,9.0,Nepal,229.0
+758,26.0,5.0,15.5,Masc,False,4.0,Indonesia,33.0
+837,42.0,3.0,28.0,Fem,True,3.0,Brazil,31.0
+4326,39.0,3.0,10.0,Fem,False,3.0,Italy,90.0
+2127,34.0,9.0,57.0,Fem,False,6.0,Mexico,183.0
+1022,32.0,6.0,44.0,Masc,False,4.0,Pakistan,42.0
+8761,26.0,6.0,28.0,Masc,False,3.0,Nepal,40.0
+5613,51.0,4.0,22.0,Masc,False,9.0,Tanzania,105.0
+5580,28.0,2.0,28.0,Fem,False,10.0,Ukraine,73.0
+1057,42.0,5.0,22.0,Fem,True,2.0,Pakistan,10.0
+9541,29.0,11.0,15.5,Fem,True,7.0,Mozambique,330.0
+6855,37.0,6.0,28.0,Fem,False,5.0,Uganda,282.0
+7348,40.0,2.0,44.0,Fem,False,1.0,Iraq,39.0
+9044,35.0,2.0,22.0,Masc,False,5.0,Yemen,26.0
+2128,29.0,7.0,44.0,Fem,False,4.0,Mexico,208.0
+2766,31.0,4.0,57.0,Masc,True,6.0,Ethiopia,97.0
+2108,48.0,3.0,15.5,Fem,False,3.0,Mexico,31.0
+3616,44.0,5.0,44.0,Masc,False,5.0,Thailand,111.0
+1544,38.0,9.0,15.5,Fem,True,6.0,Bangladesh,54.0
+6913,36.0,8.0,15.5,Masc,False,10.0,Uganda,141.0
+1718,25.0,7.0,28.0,Fem,False,4.0,Russia,97.0
+7434,29.0,5.0,57.0,Masc,False,8.0,Morocco,104.0
+7364,46.0,6.0,15.5,Fem,True,5.0,Iraq,73.0
+6234,48.0,3.0,57.0,Fem,False,4.0,Algeria,237.0
+724,48.0,3.0,57.0,Fem,False,6.0,Indonesia,143.0
+6672,29.0,7.0,10.0,Fem,True,3.0,Sudan,22.0
+8028,43.0,5.0,57.0,Fem,False,5.0,Malaysia,239.0
+5491,45.0,4.0,22.0,Fem,False,7.0,Ukraine,73.0
+1127,42.0,8.0,44.0,Masc,False,4.0,Pakistan,57.0
+2956,36.0,5.0,15.5,Fem,False,2.0,Egypt,32.0
+5155,18.0,4.0,10.0,Fem,True,5.0,Colombia,73.0
+4816,50.0,5.0,15.5,Fem,True,5.0,South Korea,191.0
+6201,44.0,9.0,44.0,Fem,False,0.0,Algeria,60.0
+6223,33.0,4.0,28.0,Fem,True,7.0,Algeria,258.0
+8685,18.0,7.0,28.0,Fem,False,5.0,Nepal,320.0
+7113,49.0,10.0,42.0,Fem,True,0.0,Canada,114.0
+5274,29.0,6.0,44.0,Masc,True,3.0,Spain,152.0
+8535,32.0,6.0,10.0,Fem,False,5.0,Venezuela,128.0
+3043,56.0,6.0,15.5,Fem,False,9.0,Germany,45.0
+6911,24.0,6.0,10.0,Fem,True,5.0,Uganda,171.0
+149,35.0,6.0,44.0,Fem,False,2.0,China,54.0
+7573,25.0,8.0,57.0,Fem,False,2.0,Morocco,42.0
+4205,37.0,3.0,28.0,Fem,True,6.0,Italy,244.0
+5492,34.0,7.0,42.0,Masc,False,1.0,Ukraine,45.0
+2689,41.0,5.0,42.0,Fem,False,0.0,Ethiopia,88.0
+4220,40.0,4.0,28.0,Fem,False,8.0,Italy,167.0
+9101,46.0,6.0,57.0,Fem,True,3.0,Yemen,49.0
+841,56.0,10.0,28.0,Masc,True,6.0,Brazil,148.0
+8136,24.0,6.0,28.0,Fem,False,4.0,Malaysia,91.0
+6437,25.0,4.0,44.0,Masc,True,4.0,Poland,105.0
+9699,36.0,5.0,15.5,Masc,False,6.0,Australia,161.0
+6199,54.0,7.0,57.0,Fem,False,6.0,Argentina,195.0
+2794,35.0,8.0,15.5,Fem,False,3.0,Ethiopia,39.0
+7625,33.0,5.0,42.0,Masc,True,0.0,Peru,107.0
+8474,23.0,6.0,42.0,Fem,False,8.0,Venezuela,195.0
+7889,35.0,6.0,22.0,Fem,False,7.0,Uzbekistan,86.0
+6607,39.0,6.0,22.0,Fem,False,4.0,Sudan,47.0
+9194,42.0,3.0,44.0,Masc,False,3.0,Yemen,50.0
+8247,30.0,6.0,28.0,Masc,True,3.0,Saudi Arabia,166.0
+1392,46.0,6.0,15.5,Fem,False,4.0,Nigeria,51.0
+1921,48.0,9.0,28.0,Masc,False,3.0,Japan,94.0
+7018,24.0,6.0,28.0,Fem,False,1.0,Canada,149.0
+3621,37.0,7.0,57.0,Fem,False,0.0,Thailand,39.0
+4848,46.0,6.0,22.0,Fem,True,9.0,South Korea,234.0
+2291,34.0,5.0,28.0,Masc,True,3.0,Philippines,29.0
+2133,19.0,8.0,28.0,Fem,False,1.0,Mexico,28.0
+550,32.0,5.0,28.0,Fem,False,2.0,United States,100.0
+1740,43.0,7.0,28.0,Fem,False,6.0,Russia,233.0
+5289,28.0,6.0,15.5,Fem,True,4.0,Spain,225.0
+1817,41.0,6.0,22.0,Fem,False,6.0,Japan,173.0
+4698,45.0,6.0,28.0,Masc,False,8.0,South Africa,56.0
+5181,47.0,7.0,28.0,Masc,True,6.0,Colombia,97.0
+3018,33.0,5.0,44.0,Masc,False,6.0,Germany,267.0
+17,37.0,8.0,28.0,Fem,False,6.0,China,188.0
+1770,41.0,2.0,10.0,Fem,True,1.0,Russia,41.0
+1888,27.0,3.0,44.0,Masc,False,4.0,Japan,110.0
+2152,33.0,5.0,15.5,Fem,False,5.0,Mexico,88.0
+1642,41.0,4.0,44.0,Masc,False,3.0,Russia,63.0
+7846,35.0,1.0,42.0,Fem,True,7.0,Uzbekistan,74.0
+4193,40.0,6.0,28.0,Masc,False,2.0,United Kingdom,164.0
+9432,25.0,9.0,44.0,Masc,True,4.0,Mozambique,97.0
+8898,44.0,9.0,22.0,Fem,False,8.0,Afghanistan,185.0
+533,31.0,4.0,44.0,Masc,False,3.0,United States,144.0
+132,44.0,5.0,57.0,Fem,True,4.0,China,193.0
+7722,36.0,11.0,15.5,Fem,True,2.0,Peru,34.0
+8458,32.0,7.0,28.0,Fem,False,4.0,Venezuela,232.0
+964,43.0,8.0,57.0,Fem,True,6.0,Brazil,165.0
+8719,20.0,7.0,44.0,Fem,False,6.0,Nepal,171.0
+6412,42.0,5.0,42.0,Masc,True,5.0,Poland,263.0
+8285,37.0,6.0,22.0,Fem,False,1.0,Saudi Arabia,28.0
+7853,48.0,5.0,44.0,Masc,True,10.0,Uzbekistan,96.0
+1095,36.0,8.0,57.0,Masc,True,6.0,Pakistan,57.0
+6929,40.0,6.0,57.0,Fem,False,7.0,Uganda,201.0
